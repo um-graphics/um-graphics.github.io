@@ -34,38 +34,36 @@ and to prepare for conducting research in a relevant area.
 # Schedule
 | Date                  | Topic                                                                                       | Material |
 |-----------------------|:-------------------------------------------------------------------------------------------:|----------|
-| Monday<br>Aug. 26   | Topic (TBD) |  Slides (TBD) |                                                                                                                               | Slides   |
-| Wednesday<br>Aug. 28   | Topic (TBD) |  Slides (TBD) |                                                                                                                               | Slides   |
-| Monday<br>Sep. 2   | Labor Day |  Slides (TBD) |                                                                                                                               | Slides   |
-| Wednesday<br>Sep. 4   | Topic (TBD) |  Slides (TBD) |                                                                                                                               | Slides   |
-| Monday<br>Sep. 9   | Topic (TBD) |  Slides (TBD) |                                                                                                                               | Slides   |
+| Monday<br>Aug. 26   | Topic (TBD) |  Slides (TBD)    |
+| Wednesday<br>Aug. 28   | Topic (TBD) |  Slides (TBD) |
+| Monday<br>Sep. 2   | Labor Day |  Slides (TBD) |
+| Wednesday<br>Sep. 4   | Topic (TBD) |  Slides (TBD) |
+| Monday<br>Sep. 9   | Topic (TBD) |  Slides (TBD) |
 | Wednesday<br>Sep. 11   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Sep. 16   | Topic (TBD) |  Slides (TBD) |                                                                                                                               | Slides   |
+| Monday<br>Sep. 16   | Topic (TBD) |  Slides (TBD) |
 | Wednesday<br>Sep. 18   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Sep. 23   | Topic (TBD) |  Slides (TBD) |                                                                                                                               | Slides   |
+| Monday<br>Sep. 23   | Topic (TBD) |  Slides (TBD) |
 | Wednesday<br>Sep. 25   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Sep. 30   | Topic (TBD) |  Slides (TBD) |                                                                                                                               | Slides   |
+| Monday<br>Sep. 30   | Topic (TBD) |  Slides (TBD) |
 | Wednesday<br>Oct. 2   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Oct. 7   | Topic (TBD) |  Slides (TBD) |                                                                                                                               | Slides   |
+| Monday<br>Oct. 7   | Topic (TBD) |  Slides (TBD) |
 | Wednesday<br>Oct. 9   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Oct. 14   | Fall Study Break |  Slides (TBD) |                                                                                                                               | Slides   |
+| Monday<br>Oct. 14   | Fall Study Break |  Slides (TBD) |
 | Wednesday<br>Oct. 16   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Oct. 21   | Topic (TBD) |  Slides (TBD) |                                                                                                                               | Slides   |
+| Monday<br>Oct. 21   | Topic (TBD) |  Slides (TBD) |
 | Wednesday<br>Oct. 23   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Oct. 28   | Topic (TBD) |  Slides (TBD) |                                                                                                                               | Slides   |
+| Monday<br>Oct. 28   | Topic (TBD) |  Slides (TBD) |
 | Wednesday<br>Oct. 30   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Nov. 4   | Topic (TBD) |  Slides (TBD) |                                                                                                                               | Slides   |
+| Monday<br>Nov. 4   | Topic (TBD) |  Slides (TBD) |
 | Wednesday<br>Nov. 6   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Nov. 11   | Topic (TBD) |  Slides (TBD) |                                                                                                                               | Slides   |
+| Monday<br>Nov. 11   | Topic (TBD) |  Slides (TBD) |
 | Wednesday<br>Nov. 13   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Nov. 18  | Topic (TBD) |  Slides (TBD) |                                                                                                                               | Slides   |
+| Monday<br>Nov. 18  | Topic (TBD) |  Slides (TBD) |
 | Wednesday<br>Nov. 20   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Nov. 25  | Topic (TBD) |  Slides (TBD) |                                                                                                                               | Slides   |
+| Monday<br>Nov. 25  | Topic (TBD) |  Slides (TBD) |
 | Wednesday<br>Nov. 27   | Thanksgiving Break |  Slides (TBD) |
-| Monday<br>Dec. 2  | Topic (TBD) |  Slides (TBD) |                                                                                                                               | Slides   |
+| Monday<br>Dec. 2  | Topic (TBD) |  Slides (TBD) |
 | Wednesday<br>Dec. 4   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Dec. 9  | Topic (TBD) |  Slides (TBD) |                                                                                                                               | Slides   |
-| Wednesday<br>Dec. 11   | Topic (TBD) |  Slides (TBD) |
 
 # Syllabus
 
@@ -130,27 +128,27 @@ There is no required textbook. However, the following textbook is recommended fo
 
 ## Topics Covered
 - 1. Classical Computer Graphics – 12 sessions
-  a. Camera models. Homogenous coordinates. Transformations.
-  b. Rasterization.
-  c. Materials and lighting.
-  d. Ray-tracing. Global Illuminations.
-  e. Texture mapping.
-  f. Blender project.
+  - a. Camera models. Homogenous coordinates. Transformations.
+  - b. Rasterization.
+  - c. Materials and lighting.
+  - d. Ray-tracing. Global Illuminations.
+  - e. Texture mapping.
+  - f. Blender project.
 - 2. 3D Reconstruction (for content capture) – 4 sessions
-  a. Structure from motions.
-  b. Neural implicit representations (neural fields)
-  c. Neural radiance fields (NeRF)
-  d. NeRF extensions (hybrid representations, dynamic reconstructions, etc)
+  - a. Structure from motions.
+  - b. Neural implicit representations (neural fields)
+  - c. Neural radiance fields (NeRF)
+  - d. NeRF extensions (hybrid representations, dynamic reconstructions, etc)
 - 3. Generative Models (for content creation) – 6 sessions
-  a. Variational autoencoders
-  b. Generative adversarial networks (GANs)
-  c. Diffusion and score-based models
-  d. Flow-based models
-  e. Inverse problem-solving with diffusion models
+  - a. Variational autoencoders
+  - b. Generative adversarial networks (GANs)
+  - c. Diffusion and score-based models
+  - d. Flow-based models
+  - e. Inverse problem-solving with diffusion models
 - 4. 3D Generative Models (for content creation) – 4 sessions
-  a. 3D GANs
-  b. Distilling diffusion models for 3D generation
-  c. Other 3D generative models
+  - a. 3D GANs
+  - b. Distilling diffusion models for 3D generation
+  - c. Other 3D generative models
 
 ## Grading
 
