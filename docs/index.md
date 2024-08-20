@@ -32,6 +32,7 @@ and to prepare for conducting research in a relevant area.
 - TBD
 
 # Schedule
+
 | Date               | Topic      | Material    |
 |--------------------|------------|-------------|
 | Monday, Aug. 26    | Topic (TBD)| Slides (TBD)|
@@ -64,6 +65,7 @@ and to prepare for conducting research in a relevant area.
 | Wednesday, Nov. 27 | Thanksgiving Break | Slides (TBD)|
 | Monday, Dec. 2     | Topic (TBD)| Slides (TBD)|
 | Wednesday, Dec. 4  | Topic (TBD)| Slides (TBD)|
+
 # Syllabus
 
 ## Scope and Topics
