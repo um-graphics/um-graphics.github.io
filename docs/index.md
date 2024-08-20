@@ -32,38 +32,38 @@ and to prepare for conducting research in a relevant area.
 - TBD
 
 # Schedule
-| Date                  | Topic                                                                                       | Material |
-|-----------------------|:-------------------------------------------------------------------------------------------:|----------|
-| Monday<br>Aug. 26   | Topic (TBD) |  Slides (TBD)    |
-| Wednesday<br>Aug. 28   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Sep. 2   | Labor Day |  Slides (TBD) |
-| Wednesday<br>Sep. 4   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Sep. 9   | Topic (TBD) |  Slides (TBD) |
-| Wednesday<br>Sep. 11   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Sep. 16   | Topic (TBD) |  Slides (TBD) |
-| Wednesday<br>Sep. 18   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Sep. 23   | Topic (TBD) |  Slides (TBD) |
-| Wednesday<br>Sep. 25   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Sep. 30   | Topic (TBD) |  Slides (TBD) |
-| Wednesday<br>Oct. 2   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Oct. 7   | Topic (TBD) |  Slides (TBD) |
-| Wednesday<br>Oct. 9   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Oct. 14   | Fall Study Break |  Slides (TBD) |
-| Wednesday<br>Oct. 16   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Oct. 21   | Topic (TBD) |  Slides (TBD) |
-| Wednesday<br>Oct. 23   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Oct. 28   | Topic (TBD) |  Slides (TBD) |
-| Wednesday<br>Oct. 30   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Nov. 4   | Topic (TBD) |  Slides (TBD) |
-| Wednesday<br>Nov. 6   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Nov. 11   | Topic (TBD) |  Slides (TBD) |
-| Wednesday<br>Nov. 13   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Nov. 18  | Topic (TBD) |  Slides (TBD) |
-| Wednesday<br>Nov. 20   | Topic (TBD) |  Slides (TBD) |
-| Monday<br>Nov. 25  | Topic (TBD) |  Slides (TBD) |
-| Wednesday<br>Nov. 27   | Thanksgiving Break |  Slides (TBD) |
-| Monday<br>Dec. 2  | Topic (TBD) |  Slides (TBD) |
-| Wednesday<br>Dec. 4   | Topic (TBD) |  Slides (TBD) |
+| Date                  | Topic                                    | Material        |
+|-----------------------|:----------------------------------------:|----------------:|
+| Monday, Aug. 26       | Topic (TBD)                              | Slides (TBD)    |
+| Wednesday, Aug. 28    | Topic (TBD)                              | Slides (TBD)    |
+| Monday, Sep. 2        | Labor Day                                | Slides (TBD)    |
+| Wednesday, Sep. 4     | Topic (TBD)                              | Slides (TBD)    |
+| Monday, Sep. 9        | Topic (TBD)                              | Slides (TBD)    |
+| Wednesday, Sep. 11    | Topic (TBD)                              | Slides (TBD)    |
+| Monday, Sep. 16       | Topic (TBD)                              | Slides (TBD)    |
+| Wednesday, Sep. 18    | Topic (TBD)                              | Slides (TBD)    |
+| Monday, Sep. 23       | Topic (TBD)                              | Slides (TBD)    |
+| Wednesday, Sep. 25    | Topic (TBD)                              | Slides (TBD)    |
+| Monday, Sep. 30       | Topic (TBD)                              | Slides (TBD)    |
+| Wednesday, Oct. 2     | Topic (TBD)                              | Slides (TBD)    |
+| Monday, Oct. 7        | Topic (TBD)                              | Slides (TBD)    |
+| Wednesday, Oct. 9     | Topic (TBD)                              | Slides (TBD)    |
+| Monday, Oct. 14       | Fall Study Break                         | Slides (TBD)    |
+| Wednesday, Oct. 16    | Topic (TBD)                              | Slides (TBD)    |
+| Monday, Oct. 21       | Topic (TBD)                              | Slides (TBD)    |
+| Wednesday, Oct. 23    | Topic (TBD)                              | Slides (TBD)    |
+| Monday, Oct. 28       | Topic (TBD)                              | Slides (TBD)    |
+| Wednesday, Oct. 30    | Topic (TBD)                              | Slides (TBD)    |
+| Monday, Nov. 4        | Topic (TBD)                              | Slides (TBD)    |
+| Wednesday, Nov. 6     | Topic (TBD)                              | Slides (TBD)    |
+| Monday, Nov. 11       | Topic (TBD)                              | Slides (TBD)    |
+| Wednesday, Nov. 13    | Topic (TBD)                              | Slides (TBD)    |
+| Monday, Nov. 18       | Topic (TBD)                              | Slides (TBD)    |
+| Wednesday, Nov. 20    | Topic (TBD)                              | Slides (TBD)    |
+| Monday, Nov. 25       | Topic (TBD)                              | Slides (TBD)    |
+| Wednesday, Nov. 27    | Thanksgiving Break                       | Slides (TBD)    |
+| Monday, Dec. 2        | Topic (TBD)                              | Slides (TBD)    |
+| Wednesday, Dec. 4     | Topic (TBD)                              | Slides (TBD)    |
 
 # Syllabus
 
