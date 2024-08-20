@@ -1,4 +1,4 @@
-# EECS442 Site
+# EECS598 Site
 View the live site at: https://um-graphics.github.io/
 
 This site uses the [Primer Spec](https://github.com/eecs485staff/primer-spec) [Jekyll](https://jekyllrb.com/) theme. For more information check [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
