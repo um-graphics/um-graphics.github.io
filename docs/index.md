@@ -26,7 +26,7 @@ and to prepare for conducting research in a relevant area.
 - Course email: um-graphics@umich.edu (Don't email to the instructor or the individual students.)
 - Note on Waitlist/Overriding: We will accept all interested students. Send a note to the course email for override and talk to the CSE advising office to register.
 
-## Homeworks
+# Homeworks
 - TBD
 
 # Schedule
@@ -96,7 +96,7 @@ Specifically, **students are expected to join the lectures in person and partici
 Students will be expected to contribute to online Q&As and discussions.
 We will track student participation in the lab sessions and the Piazza discussions and reflect them to the grading accordingly.
 There will be compensation for the students who participate actively in the final exam. See the grading scheme section for details.
-
+- There will be in-class quizzes at the end of each course, whose results are reflected towards the participation grade. The students are expected to have discussions with peers and upload their answers to Gradescope. 
 
 ## Lab sessions
 T/TH lab sessions will be a more involved version of office hours and interchangeable between the two time slots.
@@ -117,9 +117,6 @@ There will be a final exam.
 
 There is no required textbook. However, the following textbook is recommended for the course:
 
-*Fundamentals of Computer Graphics 4th Edition. Marschner & Shirley*
-
-## Topics Covered
 *Fundamentals of Computer Graphics 4th Edition. Marschner & Shirley*
 
 ## Topics Covered
