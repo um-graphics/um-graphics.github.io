@@ -86,14 +86,16 @@ and training.
 Thus, familiarity with deep learning, especially in the context of computer vision, is highly recommended.
 
 ## Difference between 498/598
-While all undergraduate and graduate students will join the same lectures, they will be given different
+While all undergraduate and graduate students will join the same lectures, they will be given the same
 homework assignments or exams. The final grades will be assigned within the two tracks.
 
 ## Class Participation
 This course expects a great amount of class participation from the students and a significant part of the final grade will be
 from the participation.
-Specifically, **students are expected to join the lectures in person and participate in in-class discussions**.
+Specifically, **students are expected to join the lectures in person and participate in in-class discussions that happen after each lecture**.
 Students will be expected to contribute to online Q&As and discussions.
+We will track student participation in the lab sessions and the Piazza discussions and reflect them to the grading accordingly.
+There will be compensation for the students who participate actively in the final exam. See the grading scheme section for details.
 
 
 ## Lab sessions
@@ -103,15 +105,10 @@ including hands-on programming aids.
 We hope it will also serve as a bazaar of knowledge where students exchange ideas/information and help each other.
 
 ## Piazza
-- We will use Piazza for discussions on conceptual and technical questions among classmates.
+- We will use Piazza for discussions on conceptual and technical questions **among classmates**. TAs will answer technical questions and give help during the lab sessions.
 - We expect the students to actively participate in Piazza discussions, which will be a significant part of the participation score.
 - Please check Piazza for already posted questions before posting a new one. Unnecessarily clogging up Piazza makes the platform less usable for everybody.
-- Please use Piazza for all communications, private or public, as much as possible.  Others will benefit from answers and discussions on public questions.
-- There will be no anonymity. Please be respectful to your classmates.
-- Piazza is moderated by the teaching staff.
-
-## Sign-Up
-If you need to be considered for a registration override or put on the waitlist, please sign up using this [form](https://docs.google.com/forms/d/e/1FAIpQLSdCWvH7eQGHVS6LZTWjWtTLjLDYkC6G-xlPfL0hyO531KntQw/viewform).
+- Please use Piazza for all communications as much as possible.  Others will benefit from answers and discussions on public questions.
 
 ## Exams
 There will be a final exam.
@@ -153,10 +150,12 @@ There is no required textbook. However, the following textbook is recommended fo
 
 Your grade will be based on:
 - **Programming Assignments (50%)**: There will be five individual programming assignments.
-- **Blender Project (15%)**.
-- **Final Exam (15%)**.
-- **Participation (20%)**.
-- **Total (110%)**.
+- **Blender Project (10%)**.
+- **Final Exam (20%)**.
+- **Participation (20%+10%)**.
+- **Total (100%)**.
+
+Note that we will allow the participation grade to overflow to the final exam. This means that if you get perfect participation grade (20%+10%) the 10% score will be added to your final exam.
 
 ## Course Policies
 
