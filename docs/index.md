@@ -22,7 +22,7 @@ and to prepare for conducting research in a relevant area.
 - **Lab Hours**:
 	- Tuesday/Thursday 3:30 PM - 5:00 PM, 138 NAME/107 GFL, respectively.
 - [**Piazza Signup**](){:target="_blank"}
-- [**Lecture Recordings**](){:target="[_blank](https://leccap.engin.umich.edu/leccap/manage/site/recordings/cqusadkfhu4csgkbyjm)"} (It could take a couple of days to be processed and uploaded)
+- [**Lecture Recordings**](https://leccap.engin.umich.edu/leccap/manage/site/recordings/cqusadkfhu4csgkbyjm) (It could take a couple of days to be processed and uploaded)
 - [**Course Calendar**](){:target="_blank"}
 - [**Virtual Office Hours**](){:target="_blank"}
 - Course email: TBD
