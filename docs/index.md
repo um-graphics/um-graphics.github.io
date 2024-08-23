@@ -13,16 +13,16 @@ This course is designed to prepare both undergraduate and graduate students to l
 and to prepare for conducting research in a relevant area.
 
 - **Instructor**: Jeong Joon Park
-- **GSIs**:
-  - Ang Cao
-  - Boyang Wang
-- **IA**:
-  - TBD
-- **Lecture**: Monday/Wednesday 10:30 AM - 12:00 Noon, STAMPS
+- **Student Assistants**:
+  - Ang Cao (Grad)
+  - Boyang Wang (Grad)
+  - Yuqi Meng (Undergrad)
+  - Junwen Yu (Undergrad)
+- **Lecture**: Monday/Wednesday 10:30 AM - 12:00 Noon, 1109 FXB
 - **Lab Hours**:
-	- Tuesday/Thursday 3:30 PM - 5:00 PM, TBD
+	- Tuesday/Thursday 3:30 PM - 5:00 PM, 138 NAME/107 GFL, respectively.
 - [**Piazza Signup**](){:target="_blank"}
-- [**Lecture Recordings**](){:target="_blank"} (It could take a couple of days to be processed and uploaded)
+- [**Lecture Recordings**](){:target="[_blank](https://leccap.engin.umich.edu/leccap/manage/site/recordings/cqusadkfhu4csgkbyjm)"} (It could take a couple of days to be processed and uploaded)
 - [**Course Calendar**](){:target="_blank"}
 - [**Virtual Office Hours**](){:target="_blank"}
 - Course email: TBD
