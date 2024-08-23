@@ -141,7 +141,7 @@ Our policy is generous. Late homework will be deducted 10% flat rate for two wee
 - **Deadline** - Submit regrade requests **within 1 week** of grades being released.
 - **Minor Regrades** - Regrade requests that concern minor judgement calls that change the grade by <= 1 point for a problem or by <= 3 points for the whole homework will not be considered. If you believe this may affect your grade at the end of the semester, contact the course email.
 
-  ## Exams
+## Exams
 There will be a final exam.
 
 ## Textbooks
