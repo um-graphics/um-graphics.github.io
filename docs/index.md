@@ -22,7 +22,8 @@ and to prepare for conducting research in a relevant area.
 - **Lecture**: Monday/Wednesday 10:30 AM - 12:00 Noon, 1109 FXB
 - **Lab Hours**:
 	- Tuesday/Thursday 3:30 PM - 5:00 PM, 138 NAME/107 GFL, respectively.
-- [**Piazza Signup**](){:target="_blank"}
+- [**Piazza Signup**](https://piazza.com/umich/fall2024/eecs498598014)
+- [**GradeScope**](https://www.gradescope.com/courses/833954)
 - [**Lecture Recordings**](https://leccap.engin.umich.edu/leccap/manage/site/recordings/cqusadkfhu4csgkbyjm) (It could take a couple of days to be processed and uploaded)
 - Note on Waitlist/Overriding: We will accept all interested students. Send a note to the course email for override and talk to the CSE advising office to register.
 
