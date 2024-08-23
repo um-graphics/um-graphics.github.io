@@ -23,9 +23,7 @@ and to prepare for conducting research in a relevant area.
 	- Tuesday/Thursday 3:30 PM - 5:00 PM, 138 NAME/107 GFL, respectively.
 - [**Piazza Signup**](){:target="_blank"}
 - [**Lecture Recordings**](https://leccap.engin.umich.edu/leccap/manage/site/recordings/cqusadkfhu4csgkbyjm) (It could take a couple of days to be processed and uploaded)
-- [**Course Calendar**](){:target="_blank"}
-- [**Virtual Office Hours**](){:target="_blank"}
-- Course email: TBD
+- Course email: um-graphics@umich.edu (Don't email to the instructor or the individual students unless an emergency.)
 - Note on Waitlist/Overriding: We will accept all interested students. Send a note to the course email for override and talk to the CSE advising office to register.
 
 ## Homeworks
