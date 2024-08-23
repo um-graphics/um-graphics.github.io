@@ -105,7 +105,7 @@ including hands-on programming aids.
 We hope it will also serve as a bazaar of knowledge where students exchange ideas/information and help each other.
 
 ## Piazza
-- We will use Piazza for discussions on conceptual and technical questions **among classmates**. TAs will answer technical questions and give help during the lab sessions.
+- We will use Piazza for discussions on conceptual and technical questions **among classmates**. TAs will answer technical questions during the offline lab sessions.
 - We expect the students to actively participate in Piazza discussions, which will be a significant part of the participation score.
 - Please check Piazza for already posted questions before posting a new one. Unnecessarily clogging up Piazza makes the platform less usable for everybody.
 - Please use Piazza for all communications as much as possible.  Others will benefit from answers and discussions on public questions.
