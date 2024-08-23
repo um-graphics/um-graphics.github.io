@@ -16,8 +16,8 @@ and to prepare for conducting research in a relevant area.
 - **Student Assistants**:
   - Ang Cao (Grad)
   - Boyang Wang (Grad)
-  - Yuqi Meng (Undergrad)
   - Junwen Yu (Undergrad)
+  - Yuqi Meng (Undergrad)
 - Course email: **um-graphics@umich.edu** (Don't email the instructor or the individual students.)
 - **Lecture**: Monday/Wednesday 10:30 AM - 12:00 Noon, 1109 FXB
 - **Lab Hours**:
