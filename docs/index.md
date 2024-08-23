@@ -26,7 +26,7 @@ and to prepare for conducting research in a relevant area.
 - [**Course Calendar**](){:target="_blank"}
 - [**Virtual Office Hours**](){:target="_blank"}
 - Course email: TBD
-- Note on Waitlist: We DO NOT reorder waitlist. Please talk to the undergraduate advising office regarding your course enrollment.
+- Note on Waitlist/Overriding: We will accept all interested students. Send a note to the course email for override and talk to the CSE advising office to register.
 
 ## Homeworks
 - TBD
