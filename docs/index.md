@@ -18,12 +18,12 @@ and to prepare for conducting research in a relevant area.
   - Boyang Wang (Grad)
   - Yuqi Meng (Undergrad)
   - Junwen Yu (Undergrad)
+- Course email: **um-graphics@umich.edu** (Don't email the instructor or the individual students.)
 - **Lecture**: Monday/Wednesday 10:30 AM - 12:00 Noon, 1109 FXB
 - **Lab Hours**:
 	- Tuesday/Thursday 3:30 PM - 5:00 PM, 138 NAME/107 GFL, respectively.
 - [**Piazza Signup**](){:target="_blank"}
 - [**Lecture Recordings**](https://leccap.engin.umich.edu/leccap/manage/site/recordings/cqusadkfhu4csgkbyjm) (It could take a couple of days to be processed and uploaded)
-- Course email: um-graphics@umich.edu (Don't email to the instructor or the individual students.)
 - Note on Waitlist/Overriding: We will accept all interested students. Send a note to the course email for override and talk to the CSE advising office to register.
 
 # Homeworks
