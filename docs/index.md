@@ -92,11 +92,11 @@ homework assignments or exams. The final grades will be assigned within the two 
 ## Class Participation
 This course expects a great amount of class participation from the students and a significant part of the final grade will be
 from the participation.
-Specifically, **students are expected to join the lectures in person and participate in in-class discussions that happen after each lecture**.
+Specifically, **students are expected to join the lectures in person and participate in in-class discussions and quizzes that happen after each lecture**.
 Students will be expected to contribute to online Q&As and discussions.
 We will track student participation in the lab sessions and the Piazza discussions and reflect them to the grading accordingly.
 There will be compensation for the students who participate actively in the final exam. See the grading scheme section for details.
-- There will be in-class quizzes at the end of each course, whose results are reflected towards the participation grade. The students are expected to have discussions with peers and upload their answers to Gradescope. 
+- There will be **in-class quizzes** at the end of each course, whose results are reflected towards the participation grade. The students are expected to have discussions with peers and upload their answers to Gradescope. 
 
 ## Lab sessions
 T/TH lab sessions will be a more involved version of office hours and interchangeable between the two time slots.
