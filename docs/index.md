@@ -162,23 +162,17 @@ Note that we will allow the participation grade to overflow to the final exam. T
 ### Formatting and Submission
 Submissions that do not follow these rules (and any additional ones specified in the homeworks) will get a 0.
 - **No handwriting** - LaTeX is not required, but encouraged. Just put some effort into generating a readable PDF.
-- **Mark answers on Gradescope** - With a few hundred students, graders will not have time to search for answers.
 
 ### Collaboration and External Sources
 - **Automated plagiarism detection**: The vast majority of students are honorable. To ensure that honorable behavior is the incentivized behavior, we will run MOSS on the submitted homework.
-- **Collaboration with students**: You should never know the specific implementation details of anyone else's homework or see their code. Working in teams and giving general advice about outputs or strategies (e.g., ‘‘if the image is really dark when you merge them together, you probably have screwed up the image mask with the number of images’’) is great. However, pair-programming or sitting next to someone else and debugging their code is not allowed.
+- **Collaboration with students**: We strongly encourage you to collaborate with other students. We're quite generous about the collaboration policy: you're free to collaborate as much as you want with other students, including discussions and pair programming. However, after your collaboration, you should write your code **yourself**. This means that you should discard all of the code you wrote with your peers and write them **again** yourself. We will check code similarity between submissions, and notify students with too similar implementations (MOSS).
 - **Consulting outside material**: You can and should turn to other documentation (suggested textbooks, other professors’ lecture notes or slides, documentation from libraries). You may not read a set of code (pseudocode is fine). If you come across code in your search, close the window and don't worry about it.
-- **Things you should never worry about**: Reading the documentation for publicly available libraries; clarifying ambiguities and mistakes in assignments, slides, handouts, textbooks, or documentation; discussion the general material; helping with things like cryptic numpy errors that are not related to class but part of the cost of doing business with a library; discussing the assignments to better understand what's expected and general solution strategies; discussing the starter code; discussing general strategies for writing and debugging code.
-- **Generative AI**: Tools like ChatGPT are strongly discouraged. We know we can't stop you, however, using them will lead to you getting very little hands-on coding ability from this course and you will struggle on the midterm. The libraries used in this course are industry-standard and it is very helpful to be comfortable with them.
+- **Generative AI**: Tools like ChatGPT are strongly discouraged. You can use them for general concepts, but you are prohibited from using them for code generation.
 
 ### Late Submissions
-Our policy is quite generous. Exceptions will be made in only truly exceptional circumstances by the professor.
-- **Late Days** - **6 total** late days across all homeworks. These will be applied automatically, no need to contact us. Homeworks are due by 11:59:59 on the due date. Thus, the late day would start at 12:00:00.
-- **Penalty** - If you have 0 late days available, any subsequent late submissions will receive a 10% max score reduction per day. For example, if you submit 3 days late, you can receive at most 70% credit.
-- **Late Deadline** - Late submissions will be accepted until a week after the deadline.
-- **Project** - No late submissions. Late days and penalties will not be applied. This will be due as late as we can take them while still delivering grades on time.
+Our policy is generous. Late homework will be deducted 10% flat rate for two weeks. We won't accept the homework submitted later than two weeks without special accommodation agreement prior to the homework deadline.
 
 ### Regrades
 - **Method** - Please submit regrade requests through Gradescope.
 - **Deadline** - Submit regrade requests **within 1 week** of grades being released.
-- **Minor Regrades** - Regrade requests that concern minor judgement calls that change the grade by <= 1 point for a problem or by <= 3 points for the whole homework will not be considered. If you believe this may affect your grade at the end of the semester, contact the professor.
+- **Minor Regrades** - Regrade requests that concern minor judgement calls that change the grade by <= 1 point for a problem or by <= 3 points for the whole homework will not be considered. If you believe this may affect your grade at the end of the semester, contact the course email.
