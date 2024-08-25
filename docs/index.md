@@ -138,7 +138,7 @@ Submissions that do not follow these rules (and any additional ones specified in
 - **Generative AI**: Tools like ChatGPT are strongly discouraged. You can use them for general concepts, but you are prohibited from using them for code generation.
 
 ### Late Submissions
-Our policy is generous. Late homework will be deducted 10% flat rate for two weeks. We won't accept the homework submitted later than two weeks without special accommodation agreement prior to the homework deadline.
+Our policy is generous. Late homework will be deducted 10% flat rate for 10 days. After that, we will impose 50% penalty (submission more than 10 days late).
 
 ### Regrades
 - **Method** - Please submit regrade requests through Gradescope.
