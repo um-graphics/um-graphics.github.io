@@ -117,10 +117,10 @@ Your grade will be based on:
 - **Programming Assignments (50%)**: There will be five individual programming assignments.
 - **Blender Project (10%)**.
 - **Final Exam (20%)**.
-- **Participation (20%+10%)**.
+- **Participation (20%+5%)**.
 - **Total (100%)**.
 
-Note that we will allow the participation grade to overflow to the final exam. This means that if you get perfect participation grade (20%+10%) the 10% score will be added to your final exam.
+Note that we will allow the participation grade to overflow to the final exam. This means that if you get perfect participation grade (20%+5%) the 5% score will be added to your final exam.
 
 ## Course Policies
 
