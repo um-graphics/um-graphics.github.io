@@ -117,8 +117,10 @@ We hope it will also serve as a bazaar of knowledge where students exchange idea
 Your grade will be based on:
 - **Programming Assignments (60%)**: There will be five individual programming assignments.
   - **Including a Blender Project (12.5%)**.
-- **Final Exam (20%)**.
-- **Participation (20%+5%)**.
+- **Final Exam (25%)**.
+- **Participation (15%+10%)**.
+  - **10% extra credit can be applied to the Final Exam score**
+  - **Extra credit given to students with satisfactory participation**
 - **Total (100%)**.
 
 Note that we will allow the participation grade to overflow to the final exam. This means that if you get perfect participation grade (20%+5%) the 5% score will be added to your final exam.
