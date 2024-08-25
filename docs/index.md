@@ -119,7 +119,7 @@ Your grade will be based on:
   - **Including a Blender Project (12.5%)**.
 - **Final Exam (25%)**.
 - **Participation (15%+10%)**.
-  - **10% extra credit can be applied to the Final Exam score**
+  - **10% extra credit added to the Final Exam score**
   - **Extra credit given to students with satisfactory participation**
 - **Total (100%)**.
 
