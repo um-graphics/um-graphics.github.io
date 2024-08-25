@@ -97,7 +97,8 @@ Specifically, **students are expected to join the lectures in person and partici
 Students will be expected to contribute to online Q&As and discussions.
 We will track student participation in the lab sessions and the Piazza discussions and reflect them to the grading accordingly.
 There will be compensation for the students who participate actively in the final exam. See the grading scheme section for details.
-- There will be **in-class quizzes** at the end of each course, whose results are reflected towards the participation grade. The students are expected to have discussions with peers and upload their answers to Gradescope. 
+- There will be **in-class quizzes** at the end of each course, whose results are reflected in the participation grade. The students are expected to have discussions with peers and upload their answers to Gradescope.
+- Extra points will be given to the students who actively participate during Piazza discussions and in-person lab sessions. These extra points will be added to the final exam score.
 
 ## Lab sessions
 T/TH lab sessions will be a more involved version of office hours and interchangeable between the two time slots.
