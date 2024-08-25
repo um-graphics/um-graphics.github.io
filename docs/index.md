@@ -116,7 +116,7 @@ We hope it will also serve as a bazaar of knowledge where students exchange idea
 
 Your grade will be based on:
 - **Programming Assignments (60%)**: There will be five individual programming assignments.
--- **Blender Project (10%)**.
+  - **Including a Blender Project (12.5%)**.
 - **Final Exam (20%)**.
 - **Participation (20%+5%)**.
 - **Total (100%)**.
