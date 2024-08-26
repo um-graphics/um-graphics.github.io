@@ -130,6 +130,7 @@ Note that we will allow the participation grade to overflow to the final exam. T
 ### Formatting and Submission
 Submissions that do not follow these rules (and any additional ones specified in the homeworks) will get a 0.
 - **No handwriting** - LaTeX is not required, but encouraged. Just put some effort into generating a readable PDF.
+- **Make sure your code compiles**. This applies especially to C++ (the first two) homeworks. Grading will be conducted based on the output of your program.
 
 ### Collaboration and External Sources
 - **Automated plagiarism detection**: The vast majority of students are honorable. To ensure that honorable behavior is the incentivized behavior, we will run MOSS on the submitted homework.
