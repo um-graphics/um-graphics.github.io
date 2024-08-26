@@ -34,7 +34,7 @@ and to prepare for conducting research in a relevant area.
 
 | Date               | Topic      | Material    |
 |--------------------|------------|-------------|
-| Monday, Aug. 26    | Topic (TBD)| Slides (TBD)|
+| Monday, Aug. 26    | Introduction| Slides(https://drive.google.com/file/d/16kWVZEFDluwPRDZLwnOwzFF7hh-1lC-M/view?usp=sharing)|
 | Wednesday, Aug. 28 | Topic (TBD)| Slides (TBD)|
 | Monday, Sep. 2     | Labor Day  | Slides (TBD)|
 | Wednesday, Sep. 4  | Topic (TBD)| Slides (TBD)|
