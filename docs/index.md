@@ -30,11 +30,13 @@ and to prepare for conducting research in a relevant area.
 # Homeworks
 - [Homework 1: Rasterization](https://drive.google.com/file/d/1SjF8xr_MgllB17Oh4Rj0uWw1uaKaJQpp/view). Due Date: September 13th. 
 
+Since this is the first iteration of this course, there can be errors in the homeworks, and will be fixed as soon as we spot them. If you encounter problems that you think are not caused by your implementation, first check whether your codebase is up to date with the published ones on github. You are welcome to come to the lab sessions for reporting or clarification of such issues.
+
 # Schedule
 
 | Date               | Topic      | Material    |
 |--------------------|------------|-------------|
-| Monday, Aug. 26    | Introduction| [Slides](https://drive.google.com/file/d/16kWVZEFDluwPRDZLwnOwzFF7hh-1lC-M/view?usp=sharing) [Records](https://leccap.engin.umich.edu/leccap/site/cqusadkfhu4csgkbyjm)|
+| Monday, Aug. 26    | Introduction| [Slides](https://drive.google.com/file/d/16kWVZEFDluwPRDZLwnOwzFF7hh-1lC-M/view?usp=sharing) [Recording](https://leccap.engin.umich.edu/leccap/site/cqusadkfhu4csgkbyjm)|
 | Wednesday, Aug. 28 | Transformation 1| [Slides](https://drive.google.com/file/d/1P3RphNs3s5MvwdrJbU3zc5grL3_wpNvh/view?usp=sharing)|
 | Monday, Sep. 2     | Labor Day  | Slides (TBD)|
 | Wednesday, Sep. 4  | Topic (TBD)| Slides (TBD)|
