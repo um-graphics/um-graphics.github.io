@@ -35,7 +35,7 @@ and to prepare for conducting research in a relevant area.
 | Date               | Topic      | Material    |
 |--------------------|------------|-------------|
 | Monday, Aug. 26    | Introduction| [Slides](https://drive.google.com/file/d/16kWVZEFDluwPRDZLwnOwzFF7hh-1lC-M/view?usp=sharing) [Records](https://leccap.engin.umich.edu/leccap/site/cqusadkfhu4csgkbyjm)|
-| Wednesday, Aug. 28 | Topic (TBD)| Slides (TBD)|
+| Wednesday, Aug. 28 | Transformation 1| [Slides](https://drive.google.com/file/d/1P3RphNs3s5MvwdrJbU3zc5grL3_wpNvh/view?usp=sharing)|
 | Monday, Sep. 2     | Labor Day  | Slides (TBD)|
 | Wednesday, Sep. 4  | Topic (TBD)| Slides (TBD)|
 | Monday, Sep. 9     | Topic (TBD)| Slides (TBD)|
