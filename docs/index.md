@@ -35,7 +35,7 @@ and to prepare for conducting research in a relevant area.
 | Date               | Topic      | Material    |
 |--------------------|------------|-------------|
 | Monday, Aug. 26    | Introduction| [Slides](https://drive.google.com/file/d/16kWVZEFDluwPRDZLwnOwzFF7hh-1lC-M/view?usp=sharing) [Records](https://leccap.engin.umich.edu/leccap/site/cqusadkfhu4csgkbyjm)|
-| Wednesday, Aug. 28 | Topic (TBD)| Slides (TBD)|
+| Wednesday, Aug. 28 | Transformation 1| [Slides](https://drive.google.com/file/d/1P3RphNs3s5MvwdrJbU3zc5grL3_wpNvh/view?usp=sharing)|
 | Monday, Sep. 2     | Labor Day  | Slides (TBD)|
 | Wednesday, Sep. 4  | Topic (TBD)| Slides (TBD)|
 | Monday, Sep. 9     | Topic (TBD)| Slides (TBD)|
@@ -130,6 +130,7 @@ Note that we will allow the participation grade to overflow to the final exam. T
 ### Formatting and Submission
 Submissions that do not follow these rules (and any additional ones specified in the homeworks) will get a 0.
 - **No handwriting** - LaTeX is not required, but encouraged. Just put some effort into generating a readable PDF.
+- **Make sure your code compiles**. This applies especially to C++ (the first two) homeworks. Grading will be conducted based on the output of your program.
 
 ### Collaboration and External Sources
 - **Automated plagiarism detection**: The vast majority of students are honorable. To ensure that honorable behavior is the incentivized behavior, we will run MOSS on the submitted homework.
