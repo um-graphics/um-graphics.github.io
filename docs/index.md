@@ -28,7 +28,7 @@ and to prepare for conducting research in a relevant area.
 - Note on Waitlist/Overriding: We will accept all interested students. Send a note to the course email for override and talk to the CSE advising office to register.
 
 # Homeworks
-- [Homework 1: Rasterization](https://drive.google.com/file/d/11RoTRZWq5Qu-TmRcSri2PCWQloG61b6n/view?usp=sharing). Due Date: TBD
+- [Homework 1: Rasterization](https://drive.google.com/file/d/11RoTRZWq5Qu-TmRcSri2PCWQloG61b6n/view?usp=sharing). Due Date: September 13th. 
 
 # Schedule
 
