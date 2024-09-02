@@ -28,7 +28,7 @@ and to prepare for conducting research in a relevant area.
 - Note on Waitlist/Overriding: We will accept all interested students. Send a note to the course email for override and talk to the CSE advising office to register.
 
 # Homeworks
-- [Homework 1: Rasterization](https://drive.google.com/file/d/1SjF8xr_MgllB17Oh4Rj0uWw1uaKaJQpp/view). Due Date: September 13th. 
+- [Homework 1: Rasterization](https://drive.google.com/file/d/1SjF8xr_MgllB17Oh4Rj0uWw1uaKaJQpp/view). Due Date: September 20th. 
 
 Since this is the first iteration of this course, there can be errors in the homeworks, and will be fixed as soon as we spot them. If you encounter problems that you think are not caused by your implementation, first check whether your codebase is up to date with the published ones on github. You are welcome to come to the lab sessions for reporting or clarification of such issues.
 
