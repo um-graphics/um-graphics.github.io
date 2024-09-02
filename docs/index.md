@@ -39,19 +39,19 @@ Since this is the first iteration of this course, there can be errors in the hom
 | 1| Monday, Aug. 26    | Introduction| [Slides](https://drive.google.com/file/d/16kWVZEFDluwPRDZLwnOwzFF7hh-1lC-M/view?usp=sharing) [Recording](https://leccap.engin.umich.edu/leccap/site/cqusadkfhu4csgkbyjm)|
 | 2| Wednesday, Aug. 28 | Transformation 1| [Slides](https://drive.google.com/file/d/1P3RphNs3s5MvwdrJbU3zc5grL3_wpNvh/view?usp=sharing)|
 |  | Monday, Sep. 2     | Labor Day  | Slides (TBD)|
-| 3| Wednesday, Sep. 4  | Topic (TBD)| Slides (TBD)|
-| 4| Monday, Sep. 9     | Topic (TBD)| Slides (TBD)|
-| 5| Wednesday, Sep. 11 | Topic (TBD)| Slides (TBD)|
-| 6| Monday, Sep. 16    | Topic (TBD)| Slides (TBD)|
-| 7| Wednesday, Sep. 18 | Topic (TBD)| Slides (TBD)|
-| 8| Monday, Sep. 23    | Topic (TBD)| Slides (TBD)|
-| 9| Wednesday, Sep. 25 | Topic (TBD)| Slides (TBD)|
-|10| Monday, Sep. 30    | Topic (TBD)| Slides (TBD)|
-|11| Wednesday, Oct. 2  | Topic (TBD)| Slides (TBD)|
-|12| Monday, Oct. 7     | Topic (TBD)| Slides (TBD)|
-|13| Wednesday, Oct. 9  | Topic (TBD)| Slides (TBD)|
+| 3| Wednesday, Sep. 4  | Transformation 2| Slides (TBD)|
+| 4| Monday, Sep. 9     | Rasterization 1| Slides (TBD)|
+| 5| Wednesday, Sep. 11 | Rasterization 2| Slides (TBD)|
+| 6| Monday, Sep. 16    | Lighting & Shading 1| Slides (TBD)|
+| 7| Wednesday, Sep. 18 | Lighting & Shading 2| Slides (TBD)|
+| 8| Monday, Sep. 23    | Ray Tracing 1 Slides (TBD)|
+| 9| Wednesday, Sep. 25 | Ray Tracing 2| Slides (TBD)|
+|10| Monday, Sep. 30    | Ray Tracing 3| Slides (TBD)|
+|11| Wednesday, Oct. 2  | Ray Tracing 4| Slides (TBD)|
+|12| Monday, Oct. 7     | BRDF| Slides (TBD)|
+|13| Wednesday, Oct. 9  | Geometry| Slides (TBD)|
 |  | Monday, Oct. 14    | Fall Study Break | Slides (TBD)|
-|14| Wednesday, Oct. 16 | Topic (TBD)| Slides (TBD)|
+|14| Wednesday, Oct. 16 | Advanced Topics| Slides (TBD)|
 |15| Monday, Oct. 21    | Topic (TBD)| Slides (TBD)|
 |16| Wednesday, Oct. 23 | Topic (TBD)| Slides (TBD)|
 |17| Monday, Oct. 28    | Topic (TBD)| Slides (TBD)|
