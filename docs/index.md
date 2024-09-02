@@ -64,8 +64,8 @@ Since this is the first iteration of this course, there can be errors in the hom
 |24| Wednesday, Nov. 20 | Topic (TBD)| Slides (TBD)|
 |25| Monday, Nov. 25    | Topic (TBD)| Slides (TBD)|
 |  | Wednesday, Nov. 27 | Thanksgiving Break | Slides (TBD)|
-|26| Monday, Dec. 2     | Topic (TBD)| Slides (TBD)|
-|27| Wednesday, Dec. 4  | Topic (TBD)| Slides (TBD)|
+|26| Monday, Dec. 2     | Final Exam| Slides (TBD)|
+|27| Wednesday, Dec. 4  | Guest Lecture| Slides (TBD)|
 
 # Syllabus
 
