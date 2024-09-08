@@ -26,6 +26,7 @@ and to prepare for conducting research in a relevant area.
 - [**GradeScope**](https://www.gradescope.com/courses/833954)
 - [**Lecture Recordings**](https://leccap.engin.umich.edu/leccap/manage/site/recordings/cqusadkfhu4csgkbyjm) (It could take a couple of days to be processed and uploaded)
 - Note on Waitlist/Overriding: We will accept all interested students. Send a note to the course email for override and talk to the CSE advising office to register.
+- Recommended Textbook: Fundamentals of Computer Graphics (fourth edition) by Steve Marschner
 
 # Homeworks
 - [Homework 1: Rasterization](https://drive.google.com/file/d/1SjF8xr_MgllB17Oh4Rj0uWw1uaKaJQpp/view). Due Date: September 20th. 
