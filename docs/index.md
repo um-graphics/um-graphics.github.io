@@ -125,7 +125,7 @@ Your grade will be based on:
   - **Extra credit given to students with satisfactory participation**
 - **Total (100%)**.
 
-Note that we will allow the participation grade to overflow to the final exam. This means that if you get perfect participation grade (20%+5%) the 5% score will be added to your final exam.
+Note that we will allow the participation grade to overflow to the final exam. This means that if you get a perfect participation grade (15%+10%) the 10% score will be added to your final exam.
 
 ## Course Policies
 
