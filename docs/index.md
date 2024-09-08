@@ -24,7 +24,7 @@ and to prepare for conducting research in a relevant area.
 	- Tuesday/Thursday 3:30 PM - 5:00 PM, 138 NAME/107 GFL, respectively.
 - [**Piazza Signup**](https://piazza.com/umich/fall2024/eecs498598014)
 - [**GradeScope**](https://www.gradescope.com/courses/833954)
-- [**Lecture Recordings**](https://leccap.engin.umich.edu/leccap/manage/site/recordings/cqusadkfhu4csgkbyjm) (It could take a couple of days to be processed and uploaded)
+- [**Lecture Recordings**](https://leccap.engin.umich.edu/leccap/site/cqusadkfhu4csgkbyjm) (It could take a couple of days to be processed and uploaded)
 - Note on Waitlist/Overriding: We will accept all interested students. Send a note to the course email for override and talk to the CSE advising office to register.
 
 # Homeworks
