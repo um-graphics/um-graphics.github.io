@@ -36,7 +36,7 @@ Since this is the first iteration of this course, there can be errors in the hom
 
 |# | Date               | Topic      | Material    |
 |--|--------------------|------------|-------------|
-| 1| Monday, Aug. 26    | Introduction| [Slides](https://drive.google.com/file/d/16kWVZEFDluwPRDZLwnOwzFF7hh-1lC-M/view?usp=sharing) [Recording](https://leccap.engin.umich.edu/leccap/site/cqusadkfhu4csgkbyjm)|
+| 1| Monday, Aug. 26    | Introduction| [Slides](https://drive.google.com/file/d/16kWVZEFDluwPRDZLwnOwzFF7hh-1lC-M/view?usp=sharing)|
 | 2| Wednesday, Aug. 28 | Transformation 1| [Slides](https://drive.google.com/file/d/1P3RphNs3s5MvwdrJbU3zc5grL3_wpNvh/view?usp=sharing)|
 |  | Monday, Sep. 2     | Labor Day  | |
 | 3| Wednesday, Sep. 4  | Transformation 2|[Slides](https://drive.google.com/file/d/1MrPkXfkmkEZmjPTURwmWFVUMEz_efk-P/view?usp=sharing)|
