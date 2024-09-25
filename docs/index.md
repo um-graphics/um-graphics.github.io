@@ -45,7 +45,7 @@ Since this is the first iteration of this course, there can be errors in the hom
 | 6| Monday, Sep. 16    | Lighting & Shading 1| [Slides](https://drive.google.com/file/d/1AXfPuvMipnjTptTlK6FnvElgBJt6QoBj/view?usp=sharing)|
 | 7| Wednesday, Sep. 18 | Lighting & Shading 2| [Slides](https://drive.google.com/file/d/170LrXqa03A0-JAZCvj5wp_ATEKG2a4YV/view?usp=sharing)|
 | 8| Monday, Sep. 23    | Ray Tracing 1 |[Slides](https://drive.google.com/file/d/1SIn2o7d9HEvrT0CbC0m-m7zpvzldjKpT/view?usp=sharing)|
-| 9| Wednesday, Sep. 25 | Ray Tracing 2| Slides (TBD)|
+| 9| Wednesday, Sep. 25 | Ray Tracing 2| [Slides](https://drive.google.com/file/d/1HvNf7fWVpzqtkuHh48aoOKBGoFvQcFTs/view?usp=sharing) |
 |10| Monday, Sep. 30    | Ray Tracing 3| Slides (TBD)|
 |11| Wednesday, Oct. 2  | Ray Tracing 4| Slides (TBD)|
 |12| Monday, Oct. 7     | BRDF| Slides (TBD)|
