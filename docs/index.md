@@ -49,21 +49,21 @@ Since this is the first iteration of this course, there can be errors in the hom
 | 9| Wednesday, Sep. 25 | Ray Tracing 2| [Slides](https://drive.google.com/file/d/1HvNf7fWVpzqtkuHh48aoOKBGoFvQcFTs/view?usp=sharing) |
 |10| Monday, Sep. 30    | Ray Tracing 3| Slides (TBD)|
 |11| Wednesday, Oct. 2  | Ray Tracing 4| Slides (TBD)|
-|12| Monday, Oct. 7     | BRDF| Slides (TBD)|
+|12| Monday, Oct. 7     | Advanced Topics| Slides (TBD)|
 |13| Wednesday, Oct. 9  | Geometry| Slides (TBD)|
 |  | Monday, Oct. 14    | Fall Study Break | Slides (TBD)|
-|14| Wednesday, Oct. 16 | Advanced Topics| Slides (TBD)|
-|15| Monday, Oct. 21    | Topic (TBD)| Slides (TBD)|
-|16| Wednesday, Oct. 23 | Topic (TBD)| Slides (TBD)|
-|17| Monday, Oct. 28    | Topic (TBD)| Slides (TBD)|
-|18| Wednesday, Oct. 30 | Topic (TBD)| Slides (TBD)|
-|19| Monday, Nov. 4     | Topic (TBD)| Slides (TBD)|
-|20| Wednesday, Nov. 6  | Topic (TBD)| Slides (TBD)|
-|21| Monday, Nov. 11    | Topic (TBD)| Slides (TBD)|
-|22| Wednesday, Nov. 13 | Topic (TBD)| Slides (TBD)|
-|23| Monday, Nov. 18    | Topic (TBD)| Slides (TBD)|
-|24| Wednesday, Nov. 20 | Topic (TBD)| Slides (TBD)|
-|25| Monday, Nov. 25    | Topic (TBD)| Slides (TBD)|
+|14| Wednesday, Oct. 16 | No Class| Slides (TBD)|
+|15| Monday, Oct. 21    | Reconstruction (TBD)| Slides (TBD)|
+|16| Wednesday, Oct. 23 | Representations (TBD)| Slides (TBD)|
+|17| Monday, Oct. 28    | Neural Fields 1 (TBD)| Slides (TBD)|
+|18| Wednesday, Oct. 30 | Neural Fields 2 (TBD)| Slides (TBD)|
+|19| Monday, Nov. 4     | Neural Fields 3 (TBD)| Slides (TBD)|
+|20| Wednesday, Nov. 6  | Neural Fields 4 (TBD)| Slides (TBD)|
+|21| Monday, Nov. 11    | Generative Models 1 (TBD)| Slides (TBD)|
+|22| Wednesday, Nov. 13 | Generative Models 2 (TBD)| Slides (TBD)|
+|23| Monday, Nov. 18    | Generative Models 3 (TBD)| Slides (TBD)|
+|24| Wednesday, Nov. 20 | Generative Models 4 (TBD)| Slides (TBD)|
+|25| Monday, Nov. 25    | Guest Lecture (TBD)| Slides (TBD)|
 |  | Wednesday, Nov. 27 | Thanksgiving Break | Slides (TBD)|
 |26| Monday, Dec. 2     | Final Exam| Slides (TBD)|
 |27| Wednesday, Dec. 4  | Guest Lecture| Slides (TBD)|
