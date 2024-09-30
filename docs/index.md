@@ -43,8 +43,8 @@ Since this is the first iteration of this course, there can be errors in the hom
 | 3| Wednesday, Sep. 4  | Transformation 2|[Slides](https://drive.google.com/file/d/1MrPkXfkmkEZmjPTURwmWFVUMEz_efk-P/view?usp=sharing)|
 | 4| Monday, Sep. 9     | Rasterization 1| [Slides](https://drive.google.com/file/d/1SgzICWdcPcsiQpMl5bUKVn9u7mKUgcul/view?usp=sharing)|
 | 5| Wednesday, Sep. 11 | Rasterization 2| [Slides](https://drive.google.com/file/d/1mIczCahnhmzTC0FBOA8RW0y4bz3f7CJ8/view?usp=sharing)|
-| 6| Monday, Sep. 16    | Lighting & Shading 1| [Slides](https://drive.google.com/file/d/1AXfPuvMipnjTptTlK6FnvElgBJt6QoBj/view?usp=sharing)|
-| 7| Wednesday, Sep. 18 | Lighting & Shading 2| [Slides](https://drive.google.com/file/d/170LrXqa03A0-JAZCvj5wp_ATEKG2a4YV/view?usp=sharing)|
+| 6| Monday, Sep. 16    | Rasterization 3| [Slides](https://drive.google.com/file/d/1AXfPuvMipnjTptTlK6FnvElgBJt6QoBj/view?usp=sharing)|
+| 7| Wednesday, Sep. 18 | Rasterization 4| [Slides](https://drive.google.com/file/d/170LrXqa03A0-JAZCvj5wp_ATEKG2a4YV/view?usp=sharing)|
 | 8| Monday, Sep. 23    | Ray Tracing 1 |[Slides](https://drive.google.com/file/d/1SIn2o7d9HEvrT0CbC0m-m7zpvzldjKpT/view?usp=sharing)|
 | 9| Wednesday, Sep. 25 | Ray Tracing 2| [Slides](https://drive.google.com/file/d/1HvNf7fWVpzqtkuHh48aoOKBGoFvQcFTs/view?usp=sharing) |
 |10| Monday, Sep. 30    | Ray Tracing 3| Slides (TBD)|
