@@ -50,7 +50,7 @@ Since this is the first iteration of this course, there can be errors in the hom
 |10| Monday, Sep. 30    | Ray Tracing 3| [Slides](https://drive.google.com/file/d/1L2VjLbk2-QrHQk0m9I_jiGA3D6cImcT_/view?usp=sharing)|
 |11| Wednesday, Oct. 2  | Ray Tracing 4| [Slides](https://drive.google.com/file/d/1RzQ0XVDBdM-vbkBx7HyaAiUTwAorUv40/view?usp=sharing)|
 |12| Monday, Oct. 7     | Advanced Topics| [Slides](https://drive.google.com/file/d/18pHLqs83y-2E60WRMs5r5uUfohnHAK1p/view?usp=sharing) |
-|13| Wednesday, Oct. 9  | Geometry| Slides (TBD)|
+|13| Wednesday, Oct. 9  | Geometry| [Slides](https://drive.google.com/file/d/11S1mzTBjLMk4sVWad3JciprQ8-zUbhPy/view?usp=sharing)|
 |  | Monday, Oct. 14    | Fall Study Break | Slides (TBD)|
 |14| Wednesday, Oct. 16 | No Class| Slides (TBD)|
 |15| Monday, Oct. 21    | Reconstruction (TBD)| Slides (TBD)|
