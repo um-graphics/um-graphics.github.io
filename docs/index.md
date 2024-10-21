@@ -54,7 +54,7 @@ Since this is the first iteration of this course, there can be errors in the hom
 |13| Wednesday, Oct. 9  | Geometry| [Slides](https://drive.google.com/file/d/11S1mzTBjLMk4sVWad3JciprQ8-zUbhPy/view?usp=sharing)|
 |  | Monday, Oct. 14    | Fall Study Break | Slides (TBD)|
 |14| Wednesday, Oct. 16 | No Class| Slides (TBD)|
-|15| Monday, Oct. 21    | Reconstruction (TBD)| Slides (TBD)|
+|15| Monday, Oct. 21    | Reconstruction | [Slides](https://drive.google.com/file/d/1jb5UtycIlhnmXH162DKtDw1jircHzDrG/view?usp=sharing)|
 |16| Wednesday, Oct. 23 | Representations (TBD)| Slides (TBD)|
 |17| Monday, Oct. 28    | Neural Fields 1 (TBD)| Slides (TBD)|
 |18| Wednesday, Oct. 30 | Neural Fields 2 (TBD)| Slides (TBD)|
