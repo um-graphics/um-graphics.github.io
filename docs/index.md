@@ -57,7 +57,7 @@ Since this is the first iteration of this course, there can be errors in the hom
 |15| Monday, Oct. 21    | Reconstruction | [Slides](https://drive.google.com/file/d/1jb5UtycIlhnmXH162DKtDw1jircHzDrG/view?usp=sharing)|
 |16| Wednesday, Oct. 23 | Representations | [Slides](https://drive.google.com/file/d/1iD4JxW6ksDll-W5Tm_iXoG6bilSIZH9l/view?usp=sharing)|
 |17| Monday, Oct. 28    | Neural Fields 1| [Slides](https://drive.google.com/file/d/1ehyWd3LXyB9htBg0vMHTXLG1VGszf8dv/view?usp=sharing)|
-|18| Wednesday, Oct. 30 | Neural Fields 2 (TBD)| Slides (TBD)|
+|18| Wednesday, Oct. 30 | Neural Fields 2| [Slides](https://drive.google.com/file/d/17DIvqxyyI_N137XJOigF2pF10kEgAsWn/view?usp=sharing)|
 |19| Monday, Nov. 4     | Neural Fields 3 (TBD)| Slides (TBD)|
 |20| Wednesday, Nov. 6  | Neural Fields 4 (TBD)| Slides (TBD)|
 |21| Monday, Nov. 11    | Generative Models 1 (TBD)| Slides (TBD)|
