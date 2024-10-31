@@ -31,7 +31,7 @@ and to prepare for conducting research in a relevant area.
 - [Homework 1: Rasterization](https://drive.google.com/file/d/1SjF8xr_MgllB17Oh4Rj0uWw1uaKaJQpp/view). Due Date: September 20th. 
 - [Homework 2: Ray Tracing](https://drive.google.com/file/d/1d4nHJt09riBWm015bod86KB87xnJ2obb/view?usp=sharing). Due Date: October 11th.
 - [Homework 3: Blender](https://drive.google.com/file/d/1OlU02Kx2kfx9QGbJ-hhQ38Dd19D-YrFx/view?usp=sharing). Due Date: October 21st.
-- [Homework 4: 3D Recon](https://drive.google.com/file/d/1j1UB1t3IEEcYI9anmr798r5nPYlEPWz7/view?usp=drive_link). Due Date: November 13rd. 
+- [Homework 4: 3D Recon](https://drive.google.com/file/d/1j1UB1t3IEEcYI9anmr798r5nPYlEPWz7/view?usp=sharing). Due Date: November 13rd. 
 
 Since this is the first iteration of this course, there can be errors in the homeworks, and will be fixed as soon as we spot them. If you encounter problems that you think are not caused by your implementation, first check whether your codebase is up to date with the published ones on github. You are welcome to come to the lab sessions for reporting or clarification of such issues.
 
