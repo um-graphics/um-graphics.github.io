@@ -67,8 +67,8 @@ Since this is the first iteration of this course, there can be errors in the hom
 |24| Wednesday, Nov. 20 | Generative Models 4 (TBD)| Slides (TBD)|
 |25| Monday, Nov. 25    | Guest Lecture (TBD)| Slides (TBD)|
 |  | Wednesday, Nov. 27 | Thanksgiving Break | Slides (TBD)|
-|26| Monday, Dec. 2     | Final Exam| Slides (TBD)|
-|27| Wednesday, Dec. 4  | Guest Lecture| Slides (TBD)|
+|26| Monday, Dec. 2     | Guest Lecture | Slides (TBD)|
+|27| Wednesday, Dec. 4  | Final Exam | Slides (TBD)|
 
 # Syllabus
 
