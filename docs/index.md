@@ -64,7 +64,7 @@ Since this is the first iteration of this course, there can be errors in the hom
 |19| Monday, Nov. 4     | Neural Fields 3| [Slides](https://drive.google.com/file/d/1NgY69yfwnfVdvukZDnNmTq728j5gjY9o/view?usp=sharing)|
 |20| Wednesday, Nov. 6  | Neural Fields 4)| [Slides](https://drive.google.com/file/d/1xSkdspv-y3-ps1YJp6o7lfFXfKn7Z94f/view?usp=sharing)|
 |21| Monday, Nov. 11    | Generative Models 1 | [Slides](https://drive.google.com/file/d/1PuI-JBRM4SGb8NPBWSOKZ3rh2oNrqZIM/view?usp=sharing)|
-|22| Wednesday, Nov. 13 | Generative Models 2 | [Slides](https://drive.google.com/file/d/1CLKedyzaaadwKfZWPFYX15ohFNPmELVe/view?usp=sharing)|
+|22| Wednesday, Nov. 13 | Generative Models 2 | [Slides](https://drive.google.com/file/d/1yNJwlDFggDEcOn1msb42KFpjPmOM3_SW/view?usp=sharing)|
 |23| Monday, Nov. 18    | Generative Models 3 (TBD)| Slides (TBD)|
 |24| Wednesday, Nov. 20 | Generative Models 4 (TBD)| Slides (TBD)|
 |25| Monday, Nov. 25    | Guest Lecture (TBD)| Slides (TBD)|
