@@ -32,7 +32,7 @@ and to prepare for conducting research in a relevant area.
 - [Homework 2: Ray Tracing](https://drive.google.com/file/d/1d4nHJt09riBWm015bod86KB87xnJ2obb/view?usp=sharing). Due Date: October 11th.
 - [Homework 3: Blender](https://drive.google.com/file/d/1OlU02Kx2kfx9QGbJ-hhQ38Dd19D-YrFx/view?usp=sharing). Due Date: October 21st.
 - [Homework 4: 3D Recon](https://drive.google.com/file/d/1JyC3k_OfuMj-WBzcj6du2ytjQcpPxkAQ/view?usp=sharing). Due Date: November 13rd. 
-- [Homework 5: Generative Model](https://drive.google.com/file/d/1Ka2cRcFKbGGCmo8tc87oOSTxY7mUjEoW/view?usp=sharing). Due Date: December 2nd. 
+- [Homework 5: Generative Model](https://drive.google.com/file/d/1Ka2cRcFKbGGCmo8tc87oOSTxY7mUjEoW/view?usp=sharing). Due Date: December 6th. No Late Day. 
 
 
 Since this is the first iteration of this course, there can be errors in the homeworks, and will be fixed as soon as we spot them. If you encounter problems that you think are not caused by your implementation, first check whether your codebase is up to date with the published ones on github. You are welcome to come to the lab sessions for reporting or clarification of such issues.
