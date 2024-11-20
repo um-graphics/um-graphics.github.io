@@ -66,7 +66,7 @@ Since this is the first iteration of this course, there can be errors in the hom
 |21| Monday, Nov. 11    | Generative Models 1 | [Slides](https://drive.google.com/file/d/1PuI-JBRM4SGb8NPBWSOKZ3rh2oNrqZIM/view?usp=sharing)|
 |22| Wednesday, Nov. 13 | Generative Models 2 | [Slides](https://drive.google.com/file/d/1CLKedyzaaadwKfZWPFYX15ohFNPmELVe/view?usp=sharing)|
 |23| Monday, Nov. 18    | Generative Models 3 | [Slides](https://drive.google.com/file/d/1yNJwlDFggDEcOn1msb42KFpjPmOM3_SW/view?usp=sharing)|
-|24| Wednesday, Nov. 20 | Generative Models 4 (TBD)| Slides (TBD)|
+|24| Wednesday, Nov. 20 | Generative Models 4 | [Slides](https://drive.google.com/file/d/1chlbGEIkz4nqQ6KuQ_-C2yfckiXnYDDS/view?usp=sharing)|
 |25| Monday, Nov. 25    | Guest Lecture (TBD)| Slides (TBD)|
 |  | Wednesday, Nov. 27 | Thanksgiving Break | Slides (TBD)|
 |26| Monday, Dec. 2     | Guest Lecture | Slides (TBD)|
