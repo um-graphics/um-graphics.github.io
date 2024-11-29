@@ -69,7 +69,7 @@ Since this is the first iteration of this course, there can be errors in the hom
 |24| Wednesday, Nov. 20 | Generative Models 4 | [Slides](https://drive.google.com/file/d/1chlbGEIkz4nqQ6KuQ_-C2yfckiXnYDDS/view?usp=sharing)|
 |25| Monday, Nov. 25    | Guest Lecture <br>([Suttisak Wizadwongsa](https://scholar.google.com/citations?hl=en&user=DMuuBQ4AAAAJ&view_op=list_works))| Slides (TBD)|
 |  | Wednesday, Nov. 27 | Thanksgiving Break | Slides (TBD)|
-|26| Monday, Dec. 2     | Guest Lecture | Slides (TBD)|
+|26| Monday, Dec. 2     | Guest Lecture | [Slides](https://www.cs.toronto.edu/~jungao/)|
 |27| Wednesday, Dec. 4  | Final Exam | Slides (TBD)|
 
 # Syllabus
