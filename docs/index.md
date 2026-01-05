@@ -180,7 +180,7 @@ There is no required textbook. However, the following textbook is recommended fo
 
 <ol>
   <li>Classical Computer Graphics – 12 sessions</li>
-  <ol type="a">
+  <ol style="list-style-type: lower-alpha !important;">
     <li>Camera models. Homogenous coordinates. Transformations</li>
     <li>Rasterization</li>
     <li>Materials and lighting</li>
@@ -189,14 +189,14 @@ There is no required textbook. However, the following textbook is recommended fo
     <li>Blender project</li>
   </ol>
   <li>3D Reconstruction (for content capture) – 4 sessions</li>
-    <ol type="a">
-      <li>Structure from motions</li>
-      <li>Neural implicit representations (neural fields)</li>
-      <li>Neural radiance fields (NeRF)</li>
-      <li>NeRF extensions (hybrid representations, dynamic reconstructions, etc)</li>
-    </ol>
+  <ol style="list-style-type: lower-alpha !important;">
+    <li>Structure from motions</li>
+    <li>Neural implicit representations (neural fields)</li>
+    <li>Neural radiance fields (NeRF)</li>
+    <li>NeRF extensions (hybrid representations, dynamic reconstructions, etc)</li>
+  </ol>
   <li>Generative Models (for content creation) – 6 sessions</li>
-  <ol type="a">
+  <ol style="list-style-type: lower-alpha !important;">
     <li>Variational autoencoders</li>
     <li>Generative adversarial networks (GANs)</li>
     <li>Diffusion and score-based models</li>
@@ -204,7 +204,7 @@ There is no required textbook. However, the following textbook is recommended fo
     <li>Inverse problem-solving with diffusion models</li>
   </ol>
   <li>3D Generative Models (for content creation) – 4 sessions</li>
-  <ol type="a">
+  <ol style="list-style-type: lower-alpha !important;">
     <li>3D GANs</li>
     <li>Distilling diffusion models for 3D generation</li>
     <li>Other 3D generative models</li>
