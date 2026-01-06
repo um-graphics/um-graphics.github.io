@@ -22,8 +22,8 @@ and to prepare for conducting research in a relevant area.
 - Course email: **<um-graphics@umich.edu>** (Don't email the instructor or the individual students.)
 - **Lecture**: Monday/Wednesday 10:30 AM - 12:00 Noon, 3336 DC
 - **Labs**: Tuesday/Thursday 3:30 PM - 5:30 PM, 1500 EECS.
-- [**Piazza Signup**]()
-- [**GradeScope**]()
+- [**Piazza Signup**](https://piazza.com/umich/winter2026/eecs498598016)
+- [**GradeScope**](https://www.gradescope.com/courses/1212518)
 - [**Lecture Recordings**]() (It could take a couple of days to be processed and uploaded)
 - Note on Waitlist/Overriding: We will accept all interested students. Send a note to the course email for override and talk to the CSE advising office to register.
 
