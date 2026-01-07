@@ -131,12 +131,10 @@ We hope it will also serve as a bazaar of knowledge where students exchange idea
 Your grade will be based on:
 
 - **Programming Assignments (60%)**: There will be five (5) individual programming assignments.
-  - Each assignment is worth 12%
+  - Each assignment is worth 12%.
 - **Final Exam (25%)**.
 - **Participation (15%)**.
 - **Total (100%)**.
-
-Note that we will allow the participation grade to overflow to the final exam. This means that if you get a perfect participation grade (15%+10%) the 10% score will be added to your final exam.
 
 ## Course Policies
 
