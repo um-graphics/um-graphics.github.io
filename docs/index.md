@@ -41,7 +41,7 @@ Since this is only the second iteration of this course, there can be errors in t
 
 |# | Date               | Topic                     | Material    |
 |--|--------------------|---------------------------|-------------|
-| 1| Wednesday, Jan. 7  | Introduction              |             |
+| 1| Wednesday, Jan. 7  | Introduction              | [Slides](https://drive.google.com/file/d/12Cq-AGQLzVFv1KqNi_8jZSxC0MQmZdIV/view?usp=drive_link) |
 | 2| Monday, Jan. 12    | Transformation 1          |             |
 | 3| Wednesday, Jan. 14 | Transformation 2          |             |
 |  | Monday, Jan. 19    | Martin Luther King Jr. Day| Slides (TBD)|
@@ -132,8 +132,10 @@ Your grade will be based on:
 
 - **Programming Assignments (60%)**: There will be five (5) individual programming assignments.
   - Each assignment is worth 12%.
+  - Including a Blender project.
 - **Final Exam (25%)**.
 - **Participation (15%)**.
+  - End-of-class discussion, lab session, and Piazza participation.
 - **Total (100%)**.
 
 ## Course Policies
