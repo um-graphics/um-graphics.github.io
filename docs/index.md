@@ -24,7 +24,7 @@ and to prepare for conducting research in a relevant area.
 - **Labs**: Tuesday/Thursday 3:30 PM - 5:30 PM, 1500 EECS.
 - [**Piazza Signup**](https://piazza.com/umich/winter2026/eecs498598016)
 - [**GradeScope**](https://www.gradescope.com/courses/1212518)
-- [**Lecture Recordings**]() (It could take a couple of days to be processed and uploaded)
+- [**Lecture Recordings**](https://leccap.engin.umich.edu/leccap/site/t0hbic0mhfa1248530c) (It could take a couple of days to be processed and uploaded)
 - Note on Waitlist/Overriding: We will accept all interested students. Send a note to the course email for override and talk to the CSE advising office to register.
 
 # Homeworks
