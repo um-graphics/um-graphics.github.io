@@ -29,11 +29,11 @@ and to prepare for conducting research in a relevant area.
 
 # Homeworks
 
-- [Homework 1: Rasterization](https://drive.google.com/file/d/1SjF8xr_MgllB17Oh4Rj0uWw1uaKaJQpp/view). Due Date: February 7th.
-- [Homework 2: Ray Tracing](https://drive.google.com/file/d/1d4nHJt09riBWm015bod86KB87xnJ2obb/view?usp=sharing). Due Date: February 28th.
-- [Homework 3: Blender](https://drive.google.com/file/d/1OlU02Kx2kfx9QGbJ-hhQ38Dd19D-YrFx/view?usp=sharing). Due Date: March 14th.
-- [Homework 4: 3D Recon](https://drive.google.com/file/d/1JyC3k_OfuMj-WBzcj6du2ytjQcpPxkAQ/view?usp=sharing). Due Date: March 30th.
-- [Homework 5: Generative Model](https://drive.google.com/file/d/1Ka2cRcFKbGGCmo8tc87oOSTxY7mUjEoW/view?usp=sharing). Due Date: April 22nd. No Late Day.
+- [Homework 1: Rasterization](). Due Date: February 7th.
+- [Homework 2: Ray Tracing](). Due Date: February 28th.
+- [Homework 3: Blender](). Due Date: March 14th.
+- [Homework 4: 3D Recon](). Due Date: March 30th.
+- [Homework 5: Generative Model](). Due Date: April 22nd. No Late Day.
 
 Since this is only the second iteration of this course, there can be errors in the homeworks, and will be fixed as soon as we spot them. If you encounter problems that you think are not caused by your implementation, first check whether your codebase is up to date with the published ones on github. You are welcome to come to the lab sessions for reporting or clarification of such issues.
 
@@ -154,7 +154,7 @@ Submissions that do not follow these rules (and any additional ones specified in
 
 ### Late Submissions
 
-Our policy is generous. Late homework will be deducted 10% flat rate for 10 days. After that, we will impose 50% penalty (submission more than 10 days late).
+Our policy is generous. Late homework will be deducted 10% flat rate for 10 days. After that, we will impose 25% penalty (submission more than 10 days late).
 
 ### Regrades
 
