@@ -42,7 +42,7 @@ Since this is only the second iteration of this course, there can be errors in t
 |# | Date               | Topic                     | Material    |
 |--|--------------------|---------------------------|-------------|
 | 1| Wednesday, Jan. 7  | Introduction              | [Slides](https://drive.google.com/file/d/12Cq-AGQLzVFv1KqNi_8jZSxC0MQmZdIV/view?usp=drive_link) |
-| 2| Monday, Jan. 12    | Transformation 1          |             |
+| 2| Monday, Jan. 12    | Transformation 1          | [Slides](https://drive.google.com/file/d/1EugbqVAtTRotGEg10HB35mzrczIX5X9G/view?usp=drive_link) |
 | 3| Wednesday, Jan. 14 | Transformation 2          |             |
 |  | Monday, Jan. 19    | Martin Luther King Jr. Day| Slides (TBD)|
 | 4| Wednesday, Jan. 21 | Rasterization 1           |             |
