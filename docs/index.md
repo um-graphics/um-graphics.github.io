@@ -37,6 +37,7 @@ and to prepare for conducting research in a relevant area.
 
 Since this is only the second iteration of this course, there can be errors in the homeworks, and will be fixed as soon as we spot them. If you encounter problems that you think are not caused by your implementation, first check whether your codebase is up to date with the published ones on github. You are welcome to come to the lab sessions for reporting or clarification of such issues.
 
+
 # Schedule
 
 |# | Date               | Topic                     | Material    |
