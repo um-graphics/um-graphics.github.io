@@ -1,6 +1,4 @@
-<link href="style.css" rel="stylesheet">
-
-## Project Guidelines
+# Project Guidelines
 
 For the course project you will explore a topic in-depth of your choosing in a group of 3-5 students. The course project should amount to roughly one homework's worth of work per person.
 
@@ -21,7 +19,7 @@ We do not expect:
 - A new idea (implementing an old idea is totally fine!).
 - That your project works (so long as you can identify and diagnose why the system doesn't work).
 
-### Proposal
+## Proposal
 
 The project proposal is due at the very latest on March 27, 2024 11:59pm to Gradescope, but we'll start giving feedback on March 13. You only need to submit one project proposal per group and add all the other members on Gradescope.
 
