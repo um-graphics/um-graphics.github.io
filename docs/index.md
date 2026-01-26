@@ -46,7 +46,7 @@ Since this is only the second iteration of this course, there can be errors in t
 | 3| Wednesday, Jan. 14 | Transformation 2          | [Slides](https://drive.google.com/file/d/1zfLmN3Bt0tn61L3YOV3Ej_wBKQfTEN6-/view?usp=sharing) |
 |  | Monday, Jan. 19    | Martin Luther King Jr. Day| Slides (TBD)|
 | 4| Wednesday, Jan. 21 | Rasterization 1           | [Slides](https://drive.google.com/file/d/1PpTJpFcr30EcvrSjHSy5n85oCYr7cziO/view?usp=sharing) |
-| 5| Monday, Jan. 26    | Rasterization 2           |             |
+| 5| Monday, Jan. 26    | Rasterization 2           | [Slides](https://drive.google.com/file/d/1h81RveziEsvaK6GDmoDe-lzFezrixMIw/view?usp=sharing) |
 | 6| Wednesday, Jan. 28 | Rasterization 3           |             |
 | 7| Monday, Feb. 2     | Rasterization 4           |             |
 | 8| Wednesday, Feb. 4  | Ray Tracing 1             |             |
