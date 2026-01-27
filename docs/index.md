@@ -133,7 +133,10 @@ Your grade will be based on:
   - Including a Blender project.
 - **Final Exam (25%)**.
 - **Participation (15%)**.
-  - End-of-class discussion, lab session, and Piazza participation.
+  - 5% lecture discussion (90% required for full credit)
+  - 5% Piazza participation
+  - 5% lab session (75% required for full credit)
+  - +3% up to the staff's discretion for exceptional engagement and participation
 - **Total (100%)**.
 
 ## Course Policies
