@@ -39,38 +39,38 @@ Since this is only the second iteration of this course, there can be errors in t
 
 # Schedule
 
-|# | Date               | Topic                     | Material    |
-|--|--------------------|---------------------------|-------------|
-| 1| Wednesday, Jan. 7  | Introduction              | [Slides](https://drive.google.com/file/d/12Cq-AGQLzVFv1KqNi_8jZSxC0MQmZdIV/view?usp=drive_link) |
-| 2| Monday, Jan. 12    | Transformation 1          | [Slides](https://drive.google.com/file/d/1EugbqVAtTRotGEg10HB35mzrczIX5X9G/view?usp=drive_link) |
-| 3| Wednesday, Jan. 14 | Transformation 2          | [Slides](https://drive.google.com/file/d/1zfLmN3Bt0tn61L3YOV3Ej_wBKQfTEN6-/view?usp=sharing) |
-|  | Monday, Jan. 19    | Martin Luther King Jr. Day| Slides (TBD)|
-| 4| Wednesday, Jan. 21 | Rasterization 1           | [Slides](https://drive.google.com/file/d/1PpTJpFcr30EcvrSjHSy5n85oCYr7cziO/view?usp=sharing) |
-| 5| Monday, Jan. 26    | Rasterization 2           | [Slides](https://drive.google.com/file/d/1h81RveziEsvaK6GDmoDe-lzFezrixMIw/view?usp=sharing) |
-| 6| Wednesday, Jan. 28 | Rasterization 3           | [Slides](https://drive.google.com/file/d/1RZx1FsoPY1rtQK9wZHSyacPnOzqXC-hK/view?usp=sharing) |
-| 7| Monday, Feb. 2     | Rasterization 4           |             |
-| 8| Wednesday, Feb. 4  | Ray Tracing 1             |             |
-| 9| Monday, Feb. 9     | Ray Tracing 2             |             |
-|10| Wednesday, Feb. 11 | Ray Tracing 3             |             |
-|11| Monday, Feb. 16    | Ray Tracing 4             |             |
-|12| Wednesday, Feb. 18 | Advanced Topics           |             |
-|13| Monday, Feb. 23    | Geometry                  |             |
-|14| Wednesday, Feb. 25 | Reconstruction            |             |
-|  | Monday, Mar. 2     | Spring Break              | Slides (TBD)|
-|  | Wednesday, Mar. 4  | Spring Break              | Slides (TBD)|
-|15| Monday, Mar. 9     | Representations           |             |
-|16| Wednesday, Mar. 11 | Neural Fields 1           |             |
-|17| Monday, Mar. 16    | Neural Fields 2           |             |
-|18| Wednesday, Mar. 18 | Neural Fields 3           |             |
-|19| Monday, Mar. 23    | Neural Fields 4           |             |
-|20| Wednesday, Mar. 25 | Generative Models 1       |             |
-|21| Monday, Mar. 30    | Generative Models 2       |             |
-|22| Wednesday, Apr. 1  | Generative Models 3       |             |
-|23| Monday, Apr. 6     | Generative Models 4       |             |
-|24| Wednesday, Apr. 8  | Guest Lecture <br>(TBD)   |             |
-|25| Monday, Apr. 13    | No Class                  | Slides (TBD)|
-|26| Wednesday, Apr. 15 | Guest Lecture <br>(TBD)   |             |
-|27| Monday, Apr. 20    | Final Exam                | Slides (TBD)|
+|# | Date               | Topic                     | Material                                                                         |
+|--|--------------------|---------------------------|----------------------------------------------------------------------------------|
+| 1| Wednesday, Jan. 7  | Introduction              | [Slides](https://drive.google.com/file/d/12Cq-AGQLzVFv1KqNi_8jZSxC0MQmZdIV/view) |
+| 2| Monday, Jan. 12    | Transformation 1          | [Slides](https://drive.google.com/file/d/1EugbqVAtTRotGEg10HB35mzrczIX5X9G/view) |
+| 3| Wednesday, Jan. 14 | Transformation 2          | [Slides](https://drive.google.com/file/d/1zfLmN3Bt0tn61L3YOV3Ej_wBKQfTEN6-/view) |
+|  | Monday, Jan. 19    | Martin Luther King Jr. Day| Slides (TBD)                                                                     |
+| 4| Wednesday, Jan. 21 | Rasterization 1           | [Slides](https://drive.google.com/file/d/1PpTJpFcr30EcvrSjHSy5n85oCYr7cziO/view) |
+| 5| Monday, Jan. 26    | Rasterization 2           | [Slides](https://drive.google.com/file/d/1h81RveziEsvaK6GDmoDe-lzFezrixMIw/view) |
+| 6| Wednesday, Jan. 28 | Rasterization 3           | [Slides](https://drive.google.com/file/d/1RZx1FsoPY1rtQK9wZHSyacPnOzqXC-hK/view) |
+| 7| Monday, Feb. 2     | No Class                  |                                                                                  |
+| 8| Wednesday, Feb. 4  | Rasterization 4           | [Slides](https://drive.google.com/file/d/1tJ9GMQhqiYWwjujIiM089pAKRG0CVsmU/view) |
+| 9| Monday, Feb. 9     | Ray Tracing 1             |                                                                                  |
+|10| Wednesday, Feb. 11 | Ray Tracing 2             |                                                                                  |
+|11| Monday, Feb. 16    | Ray Tracing 3             |                                                                                  |
+|12| Wednesday, Feb. 18 | Ray Tracing 4             |                                                                                  |
+|13| Monday, Feb. 23    | Advanced Topics           |                                                                                  |
+|14| Wednesday, Feb. 25 | Geometry                  |                                                                                  |
+|  | Monday, Mar. 2     | Spring Break              | Slides (TBD)                                                                     |
+|  | Wednesday, Mar. 4  | Spring Break              | Slides (TBD)                                                                     |
+|15| Monday, Mar. 9     | Reconstruction            |                                                                                  |
+|16| Wednesday, Mar. 11 | Representations           |                                                                                  |
+|17| Monday, Mar. 16    | Neural Fields 1           |                                                                                  |
+|18| Wednesday, Mar. 18 | Neural Fields 2           |                                                                                  |
+|19| Monday, Mar. 23    | Neural Fields 3           |                                                                                  |
+|20| Wednesday, Mar. 25 | Neural Fields 4           |                                                                                  |
+|21| Monday, Mar. 30    | Generative Models 1       |                                                                                  |
+|22| Wednesday, Apr. 1  | Generative Models 2       |                                                                                  |
+|23| Monday, Apr. 6     | Generative Models 3       |                                                                                  |
+|24| Wednesday, Apr. 8  | Generative Models 4       |                                                                                  |
+|25| Monday, Apr. 13    | Guest Lecture <br>(TBD)   |                                                                                  |
+|26| Wednesday, Apr. 15 | Guest Lecture <br>(TBD)   |                                                                                  |
+|27| Monday, Apr. 20    | Final Exam                | Slides (TBD)                                                                     |
 
 # Syllabus
 
