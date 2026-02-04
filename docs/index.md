@@ -29,7 +29,7 @@ and to prepare for conducting research in a relevant area.
 
 # Homeworks
 
-- [Homework 1: Rasterization](https://drive.google.com/file/d/1VAmRRzwWlauzYsU37U-pKxR3bKd_yQbP/view?usp=sharing). Due Date: February 7th.
+- [Homework 1: Rasterization](https://drive.google.com/file/d/1VAmRRzwWlauzYsU37U-pKxR3bKd_yQbP/view?usp=sharing). Due Date: February 14th.
 - [Homework 2: Ray Tracing](). Due Date: February 28th.
 - [Homework 3: Blender](). Due Date: March 14th.
 - [Homework 4: 3D Recon](). Due Date: March 30th.
