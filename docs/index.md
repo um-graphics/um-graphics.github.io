@@ -29,11 +29,11 @@ and to prepare for conducting research in a relevant area.
 
 # Homeworks
 
-- [Homework 1: Rasterization](https://drive.google.com/file/d/1VAmRRzwWlauzYsU37U-pKxR3bKd_yQbP/view?usp=sharing). Due Date: February 14th.
-- [Homework 2: Ray Tracing](). Due Date: February 28th.
-- [Homework 3: Blender](). Due Date: March 14th.
-- [Homework 4: 3D Recon](). Due Date: March 30th.
-- [Homework 5: Generative Model](). Due Date: April 22nd. No Late Day.
+- [Homework 1: Rasterization](https://drive.google.com/file/d/1VAmRRzwWlauzYsU37U-pKxR3bKd_yQbP/view?usp=sharing). Due Date: February 10th.
+- [Homework 2: Ray Tracing](). Due Date: March 3rd.
+- [Homework 3: Blender](). Due Date: March 17th.
+- [Homework 4: 3D Recon](). Due Date: April 2nd.
+- [Homework 5: Generative Model](). Due Date: April 25th. No Late Day.
 
 Since this is only the second iteration of this course, there can be errors in the homeworks, and will be fixed as soon as we spot them. If you encounter problems that you think are not caused by your implementation, first check whether your codebase is up to date with the published ones on github. You are welcome to come to the lab sessions for reporting or clarification of such issues.
 
