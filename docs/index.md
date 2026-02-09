@@ -50,7 +50,7 @@ Since this is only the second iteration of this course, there can be errors in t
 | 6| Wednesday, Jan. 28 | Rasterization 3           | [Slides](https://drive.google.com/file/d/1RZx1FsoPY1rtQK9wZHSyacPnOzqXC-hK/view) |
 | 7| Monday, Feb. 2     | No Class                  |                                                                                  |
 | 8| Wednesday, Feb. 4  | Rasterization 4           | [Slides](https://drive.google.com/file/d/1tJ9GMQhqiYWwjujIiM089pAKRG0CVsmU/view) |
-| 9| Monday, Feb. 9     | Ray Tracing 1             |                                                                                  |
+| 9| Monday, Feb. 9     | Ray Tracing 1             | [Slides](https://drive.google.com/file/d/1cwPt6MsXLJRXpDkyaaGTAwM0xlIwKTd6/view) |
 |10| Wednesday, Feb. 11 | Ray Tracing 2             |                                                                                  |
 |11| Monday, Feb. 16    | Ray Tracing 3             |                                                                                  |
 |12| Wednesday, Feb. 18 | Ray Tracing 4             |                                                                                  |
