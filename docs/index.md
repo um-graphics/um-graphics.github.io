@@ -30,7 +30,7 @@ and to prepare for conducting research in a relevant area.
 # Homeworks
 
 - [Homework 1: Rasterization](https://drive.google.com/file/d/1VAmRRzwWlauzYsU37U-pKxR3bKd_yQbP/view?usp=sharing). Due Date: February 10th.
-- [Homework 2: Ray Tracing](). Due Date: March 3rd.
+- [Homework 2: Ray Tracing](https://drive.google.com/file/d/1_HPjm1AtLK4mr1c1J2qCJwK3DnRG-Rdb/view?usp=sharing). Due Date: March 3rd.
 - [Homework 3: Blender](). Due Date: March 17th.
 - [Homework 4: 3D Recon](). Due Date: April 2nd.
 - [Homework 5: Generative Model](). Due Date: April 25th. No Late Day.
