@@ -53,7 +53,7 @@ Since this is only the second iteration of this course, there can be errors in t
 | 9| Monday, Feb. 9     | Ray Tracing 1             | [Slides](https://drive.google.com/file/d/1cwPt6MsXLJRXpDkyaaGTAwM0xlIwKTd6/view) |
 |10| Wednesday, Feb. 11 | Ray Tracing 2             | [Slides](https://drive.google.com/file/d/1No3bZjpgHCsdOBx8em2urDcirDqRuFav/view) |
 |11| Monday, Feb. 16    | CSE Seminar<br>(Bharath Hariharan) | [4320 Leinweber 10:30 - 11:30 am](https://eecs.engin.umich.edu/event/cse-seminar-bharath-hariharan/) |
-|12| Wednesday, Feb. 18 | Ray Tracing 3             |                                                                                  |
+|12| Wednesday, Feb. 18 | Ray Tracing 3             | [Slides](https://drive.google.com/file/d/1k2zkYSyi2mHOcN4WP1iDZr61u-86Sno7/view) |
 |13| Monday, Feb. 23    | Ray Tracing 4             |                                                                                  |
 |14| Wednesday, Feb. 25 | Advanced Topics           |                                                                                  |
 |  | Monday, Mar. 2     | Spring Break              | Slides (TBD)                                                                     |
