@@ -30,7 +30,7 @@ and to prepare for conducting research in a relevant area.
 # Homeworks
 
 - [Homework 1: Rasterization](https://drive.google.com/file/d/1VAmRRzwWlauzYsU37U-pKxR3bKd_yQbP/view?usp=sharing). Due Date: February 10th.
-- [Homework 2: Ray Tracing](https://drive.google.com/file/d/1_HPjm1AtLK4mr1c1J2qCJwK3DnRG-Rdb/view?usp=sharing). Due Date: March 3rd.
+- [Homework 2: Ray Tracing](https://drive.google.com/file/d/1_HPjm1AtLK4mr1c1J2qCJwK3DnRG-Rdb/view?usp=sharing). Due Date: March 9th.
 - [Homework 3: Blender](). Due Date: March 17th.
 - [Homework 4: 3D Recon](). Due Date: April 2nd.
 - [Homework 5: Generative Model](). Due Date: April 25th. No Late Day.
@@ -54,7 +54,7 @@ Since this is only the second iteration of this course, there can be errors in t
 |10| Wednesday, Feb. 11 | Ray Tracing 2             | [Slides](https://drive.google.com/file/d/1No3bZjpgHCsdOBx8em2urDcirDqRuFav/view) |
 |11| Monday, Feb. 16    | CSE Seminar<br>(Bharath Hariharan) | [4320 Leinweber 10:30 - 11:30 am](https://eecs.engin.umich.edu/event/cse-seminar-bharath-hariharan/) |
 |12| Wednesday, Feb. 18 | Ray Tracing 3             | [Slides](https://drive.google.com/file/d/1k2zkYSyi2mHOcN4WP1iDZr61u-86Sno7/view) |
-|13| Monday, Feb. 23    | Ray Tracing 4             |                                                                                  |
+|13| Monday, Feb. 23    | Ray Tracing 4             | [Slides](https://drive.google.com/file/d/1WaJfr8duuk9O3s82SgfEFCLVSTv50g6a/view) |
 |14| Wednesday, Feb. 25 | Advanced Topics           |                                                                                  |
 |  | Monday, Mar. 2     | Spring Break              | Slides (TBD)                                                                     |
 |  | Wednesday, Mar. 4  | Spring Break              | Slides (TBD)                                                                     |
