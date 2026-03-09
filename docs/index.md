@@ -58,7 +58,7 @@ Since this is only the second iteration of this course, there can be errors in t
 |14| Wednesday, Feb. 25 | Ray Tracing 5             | [Slides](https://drive.google.com/file/d/1-GVAJo-6XQFtGkWROQ45ZZcjf27C5N9_/view) |
 |  | Monday, Mar. 2     | Spring Break              | Slides (TBD)                                                                     |
 |  | Wednesday, Mar. 4  | Spring Break              | Slides (TBD)                                                                     |
-|15| Monday, Mar. 9     | Geometry                  |                                                                                  |
+|15| Monday, Mar. 9     | Ray Tracing 6             | [Slides](https://drive.google.com/file/d/1VWJEpaDn61AomgKdmOwJolTVmdhGS95M/view) |
 |16| Wednesday, Mar. 11 | Reconstruction            |                                                                                  |
 |17| Monday, Mar. 16    | Representations           |                                                                                  |
 |18| Wednesday, Mar. 18 | Neural Fields 1           |                                                                                  |
