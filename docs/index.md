@@ -59,17 +59,17 @@ Since this is only the second iteration of this course, there can be errors in t
 |  | Monday, Mar. 2     | Spring Break              | Slides (TBD)                                                                     |
 |  | Wednesday, Mar. 4  | Spring Break              | Slides (TBD)                                                                     |
 |15| Monday, Mar. 9     | Ray Tracing 6             | [Slides](https://drive.google.com/file/d/1VWJEpaDn61AomgKdmOwJolTVmdhGS95M/view) |
-|16| Wednesday, Mar. 11 | Reconstruction            |                                                                                  |
-|17| Monday, Mar. 16    | Representations           |                                                                                  |
-|18| Wednesday, Mar. 18 | Neural Fields 1           |                                                                                  |
-|19| Monday, Mar. 23    | Neural Fields 2           |                                                                                  |
-|20| Wednesday, Mar. 25 | Neural Fields 3           |                                                                                  |
-|21| Monday, Mar. 30    | Neural Fields 4           |                                                                                  |
-|22| Wednesday, Apr. 1  | Generative Models 1       |                                                                                  |
-|23| Monday, Apr. 6     | Generative Models 2       |                                                                                  |
-|24| Wednesday, Apr. 8  | Generative Models 3       |                                                                                  |
-|25| Monday, Apr. 13    | Generative Models 4       |                                                                                  |
-|26| Wednesday, Apr. 15 | Guest Lecture <br>(TBD)   |                                                                                  |
+|16| Wednesday, Mar. 11 | Geometry                  | [Slides](https://drive.google.com/file/d/13cUnPP7VSQDZNoJpZGYeOdIX6fopfHyR/view) |
+|17| Monday, Mar. 16    | Reconstruction            |                                                                                  |
+|18| Wednesday, Mar. 18 | Representations           |                                                                                  |
+|19| Monday, Mar. 23    | Neural Fields 1           |                                                                                  |
+|20| Wednesday, Mar. 25 | Neural Fields 2           |                                                                                  |
+|21| Monday, Mar. 30    | Neural Fields 3           |                                                                                  |
+|22| Wednesday, Apr. 1  | Neural Fields 4           |                                                                                  |
+|23| Monday, Apr. 6     | Generative Models 1       |                                                                                  |
+|24| Wednesday, Apr. 8  | Generative Models 2       |                                                                                  |
+|25| Monday, Apr. 13    | Generative Models 3       |                                                                                  |
+|26| Wednesday, Apr. 15 | Generative Models 4       |                                                                                  |
 |27| Monday, Apr. 20    | Final Exam                | Slides (TBD)                                                                     |
 
 # Syllabus
