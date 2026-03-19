@@ -169,6 +169,8 @@ Our policy is generous. Late homework will be deducted 10% flat rate for 10 days
 
 There will be a final exam.
 
+[Practice Final](https://drive.google.com/file/d/1GopU-EVzK0LLPUCrmcFjKF6CbebFHrnx/view?usp=drive_link)
+
 ## Textbooks
 
 There is no required textbook. However, the following textbook is recommended for the course:
