@@ -62,7 +62,7 @@ Since this is only the second iteration of this course, there can be errors in t
 |16| Wednesday, Mar. 11 | Geometry                  | [Slides](https://drive.google.com/file/d/13cUnPP7VSQDZNoJpZGYeOdIX6fopfHyR/view) |
 |17| Monday, Mar. 16    | Reconstruction            | [Slides](https://drive.google.com/file/d/1RRm1sTzHAXvuNbZk7E-1pq1oA_txreib/view) |
 |18| Wednesday, Mar. 18 | Representations           | [Slides](https://drive.google.com/file/d/10_wvGrMW1LNgXnLowriwM_uofJcps2Td/view) |
-|19| Monday, Mar. 23    | Neural Fields 1           |                                                                                  |
+|19| Monday, Mar. 23    | Neural Fields 1           | [Slides](https://drive.google.com/file/d/1SpWN6cqFlOC5bxNfk0C9N5kajMq6WdUs/view) |
 |20| Wednesday, Mar. 25 | Neural Fields 2           |                                                                                  |
 |21| Monday, Mar. 30    | Neural Fields 3           |                                                                                  |
 |22| Wednesday, Apr. 1  | Neural Fields 4           |                                                                                  |
