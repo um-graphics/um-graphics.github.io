@@ -65,7 +65,7 @@ Since this is only the second iteration of this course, there can be errors in t
 |19| Monday, Mar. 23    | Neural Fields 1           | [Slides](https://drive.google.com/file/d/1SpWN6cqFlOC5bxNfk0C9N5kajMq6WdUs/view) |
 |20| Wednesday, Mar. 25 | Neural Fields 2           | [Slides](https://drive.google.com/file/d/1EgXEYNuPTmZ0qKC5SEoh38MQEIZpScGq/view) |
 |21| Monday, Mar. 30    | Neural Fields 3           | [Slides](https://drive.google.com/file/d/1dMLvAuwsShifVaQSGfeujJZRZ-kG5mG1/view) |
-|22| Wednesday, Apr. 1  | Neural Fields 4           |                                                                                  |
+|22| Wednesday, Apr. 1  | Neural Fields 4           | [Slides](https://drive.google.com/file/d/1GLdhIa9OUWCdwtwmock6P6-kkA4LmI_j/view) |
 |23| Monday, Apr. 6     | Generative Models 1       |                                                                                  |
 |24| Wednesday, Apr. 8  | Generative Models 2       |                                                                                  |
 |25| Monday, Apr. 13    | Generative Models 3       |                                                                                  |
