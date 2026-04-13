@@ -68,7 +68,7 @@ Since this is only the second iteration of this course, there can be errors in t
 |22| Wednesday, Apr. 1  | Neural Fields 4           | [Slides](https://drive.google.com/file/d/1GLdhIa9OUWCdwtwmock6P6-kkA4LmI_j/view) |
 |23| Monday, Apr. 6     | Generative Models 1       | [Slides](https://drive.google.com/file/d/1v74oaLNvytwFcvz72xURTosdDsOmRpz6/view) |
 |24| Wednesday, Apr. 8  | Generative Models 2       | [Slides](https://drive.google.com/file/d/1WUX-o7UgSUSpRX27GStPknZpuXjyl3bj/view) |
-|25| Monday, Apr. 13    | Generative Models 3       |                                                                                  |
+|25| Monday, Apr. 13    | Generative Models 3       | [Slides](https://drive.google.com/file/d/1UKy1CsLLWj_FGRlJf2SV3NlHHMcSTxLk/view) |
 |26| Wednesday, Apr. 15 | Generative Models 4       |                                                                                  |
 |27| Monday, Apr. 20    | Final Exam                | Slides (TBD)                                                                     |
 
