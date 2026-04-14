@@ -172,6 +172,8 @@ There will be a final exam.
 
 [Practice Final](https://drive.google.com/file/d/1GopU-EVzK0LLPUCrmcFjKF6CbebFHrnx/view?usp=drive_link)
 
+[Exam Prep Slides](https://docs.google.com/presentation/d/15tbCfhA5jlCKShd7QQEUm2P9D3DYnUJWdLGBjBwHljw/edit?usp=sharing)
+
 ## Textbooks
 
 There is no required textbook. However, the following textbook is recommended for the course:
