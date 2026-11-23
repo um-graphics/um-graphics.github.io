@@ -21,19 +21,19 @@ and to prepare for conducting research in a relevant area.
   - Julian Whittaker (Undergrad)
 - Course email: **<um-graphics@umich.edu>** (Don't email the instructor or the individual students.)
 - **Lecture**: Monday/Wednesday 10:30 AM - 12:00 Noon, 3336 DC
-- **Labs**: Tuesday/Thursday 3:30 PM - 5:30 PM, 1500 EECS.
-- [**Piazza Signup**](https://piazza.com/umich/winter2026/eecs498598016)
-- [**GradeScope**](https://www.gradescope.com/courses/1212518)
-- [**Lecture Recordings**](https://leccap.engin.umich.edu/leccap/site/t0hbic0mhfa1248530c) (It could take a couple of days to be processed and uploaded)
+- **Labs**: Tuesday/Thursday 3:30 PM - 5:30 PM, 133 CHRYS.
+- **Piazza Signup**: Coming soon
+- **GradeScope**: Coming soon
+- **Lecture Recordings**: Coming soon (It could take a couple of days to be processed and uploaded)
 - Note on Waitlist/Overriding: We will accept all interested students. Send a note to the course email for override and talk to the CSE advising office to register.
 
 # Homeworks
 
-- [Homework 1: Rasterization](https://drive.google.com/file/d/1VAmRRzwWlauzYsU37U-pKxR3bKd_yQbP/view?usp=sharing). Due Date: February 10th.
-- [Homework 2: Ray Tracing](https://drive.google.com/file/d/1_HPjm1AtLK4mr1c1J2qCJwK3DnRG-Rdb/view?usp=sharing). Due Date: March 10th.
-- [Homework 3: Blender](https://drive.google.com/file/d/1E-FQgXLQDbvgoNtGc_KscaEMehB-iRVR/view?usp=sharing). Due Date: March 17th.
-- [Homework 4: 3D Recon](https://drive.google.com/file/d/1Z3NH69Qb4F_RT-hz4Nf3bE6Q_Sro9oac/view?usp=sharing). Due Date: April 6th.
-- [Homework 5: Generative Model](https://um-graphics.github.io/HW5_release.zip). Due Date: April 28th. No Late Day.
+- [Homework 1: Rasterization](https://drive.google.com/file/d/1VAmRRzwWlauzYsU37U-pKxR3bKd_yQbP/view?usp=sharing). Due Date: TBD.
+- [Homework 2: Ray Tracing](https://drive.google.com/file/d/1_HPjm1AtLK4mr1c1J2qCJwK3DnRG-Rdb/view?usp=sharing). Due Date: TBD.
+- [Homework 3: Blender](https://drive.google.com/file/d/1E-FQgXLQDbvgoNtGc_KscaEMehB-iRVR/view?usp=sharing). Due Date: TBD.
+- [Homework 4: 3D Recon](https://drive.google.com/file/d/1Z3NH69Qb4F_RT-hz4Nf3bE6Q_Sro9oac/view?usp=sharing). Due Date: TBD.
+- [Homework 5: Generative Model](https://um-graphics.github.io/HW5_release.zip). Due Date: TBD. No Late Day.
 
 Since this is only the second iteration of this course, there can be errors in the homeworks, and will be fixed as soon as we spot them. If you encounter problems that you think are not caused by your implementation, first check whether your codebase is up to date with the published ones on github. You are welcome to come to the lab sessions for reporting or clarification of such issues.
 
@@ -41,37 +41,36 @@ Since this is only the second iteration of this course, there can be errors in t
 
 |# | Date               | Topic                     | Material                                                                         |
 |--|--------------------|---------------------------|----------------------------------------------------------------------------------|
-| 1| Wednesday, Jan. 7  | Introduction              | [Slides](https://drive.google.com/file/d/12Cq-AGQLzVFv1KqNi_8jZSxC0MQmZdIV/view) |
-| 2| Monday, Jan. 12    | Transformation 1          | [Slides](https://drive.google.com/file/d/1EugbqVAtTRotGEg10HB35mzrczIX5X9G/view) |
-| 3| Wednesday, Jan. 14 | Transformation 2          | [Slides](https://drive.google.com/file/d/1zfLmN3Bt0tn61L3YOV3Ej_wBKQfTEN6-/view) |
-|  | Monday, Jan. 19    | Martin Luther King Jr. Day| Slides (TBD)                                                                     |
-| 4| Wednesday, Jan. 21 | Rasterization 1           | [Slides](https://drive.google.com/file/d/1PpTJpFcr30EcvrSjHSy5n85oCYr7cziO/view) |
-| 5| Monday, Jan. 26    | Rasterization 2           | [Slides](https://drive.google.com/file/d/1h81RveziEsvaK6GDmoDe-lzFezrixMIw/view) |
-| 6| Wednesday, Jan. 28 | Rasterization 3           | [Slides](https://drive.google.com/file/d/1RZx1FsoPY1rtQK9wZHSyacPnOzqXC-hK/view) |
-| 7| Monday, Feb. 2     | No Class                  |                                                                                  |
-| 8| Wednesday, Feb. 4  | Rasterization 4           | [Slides](https://drive.google.com/file/d/1tJ9GMQhqiYWwjujIiM089pAKRG0CVsmU/view) |
-| 9| Monday, Feb. 9     | Ray Tracing 1             | [Slides](https://drive.google.com/file/d/1cwPt6MsXLJRXpDkyaaGTAwM0xlIwKTd6/view) |
-|10| Wednesday, Feb. 11 | Ray Tracing 2             | [Slides](https://drive.google.com/file/d/1No3bZjpgHCsdOBx8em2urDcirDqRuFav/view) |
-|11| Monday, Feb. 16    | CSE Seminar<br>(Bharath Hariharan) | [4320 Leinweber 10:30 - 11:30 am](https://eecs.engin.umich.edu/event/cse-seminar-bharath-hariharan/) |
-|12| Wednesday, Feb. 18 | Ray Tracing 3             | [Slides](https://drive.google.com/file/d/1k2zkYSyi2mHOcN4WP1iDZr61u-86Sno7/view) |
-|13| Monday, Feb. 23    | Ray Tracing 4             | [Slides](https://drive.google.com/file/d/1WaJfr8duuk9O3s82SgfEFCLVSTv50g6a/view) |
-|14| Wednesday, Feb. 25 | Ray Tracing 5             | [Slides](https://drive.google.com/file/d/1-GVAJo-6XQFtGkWROQ45ZZcjf27C5N9_/view) |
-|  | Monday, Mar. 2     | Spring Break              | Slides (TBD)                                                                     |
-|  | Wednesday, Mar. 4  | Spring Break              | Slides (TBD)                                                                     |
-|15| Monday, Mar. 9     | Ray Tracing 6             | [Slides](https://drive.google.com/file/d/1VWJEpaDn61AomgKdmOwJolTVmdhGS95M/view) |
-|16| Wednesday, Mar. 11 | Geometry                  | [Slides](https://drive.google.com/file/d/13cUnPP7VSQDZNoJpZGYeOdIX6fopfHyR/view) |
-|17| Monday, Mar. 16    | Reconstruction            | [Slides](https://drive.google.com/file/d/1RRm1sTzHAXvuNbZk7E-1pq1oA_txreib/view) |
-|18| Wednesday, Mar. 18 | Representations           | [Slides](https://drive.google.com/file/d/10_wvGrMW1LNgXnLowriwM_uofJcps2Td/view) |
-|19| Monday, Mar. 23    | Neural Fields 1           | [Slides](https://drive.google.com/file/d/1SpWN6cqFlOC5bxNfk0C9N5kajMq6WdUs/view) |
-|20| Wednesday, Mar. 25 | Neural Fields 2           | [Slides](https://drive.google.com/file/d/1EgXEYNuPTmZ0qKC5SEoh38MQEIZpScGq/view) |
-|21| Monday, Mar. 30    | Neural Fields 3           | [Slides](https://drive.google.com/file/d/1dMLvAuwsShifVaQSGfeujJZRZ-kG5mG1/view) |
-|22| Wednesday, Apr. 1  | Neural Fields 4           | [Slides](https://drive.google.com/file/d/1GLdhIa9OUWCdwtwmock6P6-kkA4LmI_j/view) |
-|23| Monday, Apr. 6     | Generative Models 1       | [Slides](https://drive.google.com/file/d/1v74oaLNvytwFcvz72xURTosdDsOmRpz6/view) |
-|24| Wednesday, Apr. 8  | Generative Models 2       | [Slides](https://drive.google.com/file/d/1WUX-o7UgSUSpRX27GStPknZpuXjyl3bj/view) |
-|25| Monday, Apr. 13    | Generative Models 3       | [Slides](https://drive.google.com/file/d/1UKy1CsLLWj_FGRlJf2SV3NlHHMcSTxLk/view) |
-|26| Wednesday, Apr. 15 | Generative Models 4       | [Slides](https://drive.google.com/file/d/10mrvDuro-lHizJD2wKRx60kOkf9Ht6Ns/view) |
-|27| Monday, Apr. 20    | No Class                  | Slides (TBD)                                                                     |
-|28| Wednesday, Apr. 22 | Final Exam                | Slides (TBD)                                                                     |
+| 1| Wednesday, Jan. 13 | Introduction              | [Slides](https://drive.google.com/file/d/12Cq-AGQLzVFv1KqNi_8jZSxC0MQmZdIV/view) |
+|  | Monday, Jan. 18    | Martin Luther King Jr. Day|                                                                                  |
+| 2| Wednesday, Jan. 20 | Transformation 1          | [Slides](https://drive.google.com/file/d/1EugbqVAtTRotGEg10HB35mzrczIX5X9G/view) |
+| 3| Monday, Jan. 25    | Transformation 2          | [Slides](https://drive.google.com/file/d/1zfLmN3Bt0tn61L3YOV3Ej_wBKQfTEN6-/view) |
+| 4| Wednesday, Jan. 27 | Rasterization 1           | [Slides](https://drive.google.com/file/d/1PpTJpFcr30EcvrSjHSy5n85oCYr7cziO/view) |
+| 5| Monday, Feb. 1     | Rasterization 2           | [Slides](https://drive.google.com/file/d/1h81RveziEsvaK6GDmoDe-lzFezrixMIw/view) |
+| 6| Wednesday, Feb. 3  | Rasterization 3           | [Slides](https://drive.google.com/file/d/1RZx1FsoPY1rtQK9wZHSyacPnOzqXC-hK/view) |
+| 7| Monday, Feb. 8     | Rasterization 4           | [Slides](https://drive.google.com/file/d/1tJ9GMQhqiYWwjujIiM089pAKRG0CVsmU/view) |
+| 8| Wednesday, Feb. 10 | Ray Tracing 1             | [Slides](https://drive.google.com/file/d/1cwPt6MsXLJRXpDkyaaGTAwM0xlIwKTd6/view) |
+| 9| Monday, Feb. 15    | Ray Tracing 2             | [Slides](https://drive.google.com/file/d/1No3bZjpgHCsdOBx8em2urDcirDqRuFav/view) |
+|10| Wednesday, Feb. 17 | Ray Tracing 3             | [Slides](https://drive.google.com/file/d/1k2zkYSyi2mHOcN4WP1iDZr61u-86Sno7/view) |
+|11| Monday, Feb. 22    | Ray Tracing 4             | [Slides](https://drive.google.com/file/d/1WaJfr8duuk9O3s82SgfEFCLVSTv50g6a/view) |
+|12| Wednesday, Feb. 24 | Ray Tracing 5             | [Slides](https://drive.google.com/file/d/1-GVAJo-6XQFtGkWROQ45ZZcjf27C5N9_/view) |
+|13| Monday, Mar. 1     | Ray Tracing 6             | [Slides](https://drive.google.com/file/d/1VWJEpaDn61AomgKdmOwJolTVmdhGS95M/view) |
+|14| Wednesday, Mar. 3  | Geometry                  | [Slides](https://drive.google.com/file/d/13cUnPP7VSQDZNoJpZGYeOdIX6fopfHyR/view) |
+|  | Monday, Mar. 8     | Spring Break              |                                                                                  |
+|  | Wednesday, Mar. 10 | Spring Break              |                                                                                  |
+|15| Monday, Mar. 15    | Reconstruction            | [Slides](https://drive.google.com/file/d/1RRm1sTzHAXvuNbZk7E-1pq1oA_txreib/view) |
+|16| Wednesday, Mar. 17 | Representations           | [Slides](https://drive.google.com/file/d/10_wvGrMW1LNgXnLowriwM_uofJcps2Td/view) |
+|17| Monday, Mar. 22    | Neural Fields 1           | [Slides](https://drive.google.com/file/d/1SpWN6cqFlOC5bxNfk0C9N5kajMq6WdUs/view) |
+|18| Wednesday, Mar. 24 | Neural Fields 2           | [Slides](https://drive.google.com/file/d/1EgXEYNuPTmZ0qKC5SEoh38MQEIZpScGq/view) |
+|19| Monday, Mar. 29    | Neural Fields 3           | [Slides](https://drive.google.com/file/d/1dMLvAuwsShifVaQSGfeujJZRZ-kG5mG1/view) |
+|20| Wednesday, Mar. 31 | Neural Fields 4           | [Slides](https://drive.google.com/file/d/1GLdhIa9OUWCdwtwmock6P6-kkA4LmI_j/view) |
+|21| Monday, Apr. 5     | Generative Models 1       | [Slides](https://drive.google.com/file/d/1v74oaLNvytwFcvz72xURTosdDsOmRpz6/view) |
+|22| Wednesday, Apr. 7  | Generative Models 2       | [Slides](https://drive.google.com/file/d/1WUX-o7UgSUSpRX27GStPknZpuXjyl3bj/view) |
+|23| Monday, Apr. 12    | Generative Models 3       | [Slides](https://drive.google.com/file/d/1UKy1CsLLWj_FGRlJf2SV3NlHHMcSTxLk/view) |
+|24| Wednesday, Apr. 14 | Generative Models 4       | [Slides](https://drive.google.com/file/d/10mrvDuro-lHizJD2wKRx60kOkf9Ht6Ns/view) |
+|25| Monday, Apr. 19    | TBD                       |                                                                                  |
+|26| Wednesday, Apr. 21 | Final Exam                |                                                                                  |
+|27| Monday, Apr. 26    | No Class                  |                                                                                  |
 
 # Syllabus
 
