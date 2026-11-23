@@ -141,12 +141,13 @@ Your grade will be based on:
 
 ## Optional Project
 
-Instead of the Blender project (Homework 3), students may choose to complete an optional project. The optional project replaces Homework 3 and is worth the same 12% of the final grade.
+Instead of the Blender project (Homework 3), students may choose to complete an optional semester-long project. The optional project replaces Homework 3 and is worth the same 12% of the final grade.
 
 Students who choose the optional project will:
 
 - Receive feedback on their project from the instructor and the TAs.
 - Have the chance to present their results at the end of the semester.
+- Be graded generously, with a good chance to earn the +3% extra credit described in [Grading](#grading).
 
 More details, including how to sign up and the deadlines, will be announced later.
 
