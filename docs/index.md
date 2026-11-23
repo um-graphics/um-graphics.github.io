@@ -31,7 +31,7 @@ and to prepare for conducting research in a relevant area.
 
 - [Homework 1: Rasterization](https://drive.google.com/file/d/1VAmRRzwWlauzYsU37U-pKxR3bKd_yQbP/view?usp=sharing). Due Date: TBD.
 - [Homework 2: Ray Tracing](https://drive.google.com/file/d/1_HPjm1AtLK4mr1c1J2qCJwK3DnRG-Rdb/view?usp=sharing). Due Date: TBD.
-- [Homework 3: Blender](https://drive.google.com/file/d/1E-FQgXLQDbvgoNtGc_KscaEMehB-iRVR/view?usp=sharing). Due Date: TBD.
+- [Homework 3: Blender](https://drive.google.com/file/d/1E-FQgXLQDbvgoNtGc_KscaEMehB-iRVR/view?usp=sharing). Due Date: TBD. Can be replaced by the [optional project](#optional-project).
 - [Homework 4: 3D Recon](https://drive.google.com/file/d/1Z3NH69Qb4F_RT-hz4Nf3bE6Q_Sro9oac/view?usp=sharing). Due Date: TBD.
 - [Homework 5: Generative Model](https://um-graphics.github.io/HW5_release.zip). Due Date: TBD. No Late Day.
 
@@ -130,7 +130,7 @@ Your grade will be based on:
 
 - **Programming Assignments (60%)**: There will be five (5) individual programming assignments.
   - Each assignment is worth 12%.
-  - Including a Blender project.
+  - Including a Blender project (Homework 3), which can be replaced by the [optional project](#optional-project).
 - **Final Exam (25%)**.
 - **Participation (15%)**.
   - 5% lecture discussion (90% required for full credit)
@@ -138,6 +138,17 @@ Your grade will be based on:
   - 5% lab session (75% required for full credit)
   - +3% up to the staff's discretion for exceptional engagement and participation
 - **Total (100%)**.
+
+## Optional Project
+
+Instead of the Blender project (Homework 3), students may choose to complete an optional project. The optional project replaces Homework 3 and is worth the same 12% of the final grade.
+
+Students who choose the optional project will:
+
+- Receive feedback on their project from the instructor and the TAs.
+- Have the chance to present their results at the end of the semester.
+
+More details, including how to sign up and the deadlines, will be announced later.
 
 ## Course Policies
 
