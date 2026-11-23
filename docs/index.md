@@ -68,7 +68,7 @@ Since this is only the second iteration of this course, there can be errors in t
 |22| Wednesday, Apr. 7  | Generative Models 2       | [Slides](https://drive.google.com/file/d/1WUX-o7UgSUSpRX27GStPknZpuXjyl3bj/view) |
 |23| Monday, Apr. 12    | Generative Models 3       | [Slides](https://drive.google.com/file/d/1UKy1CsLLWj_FGRlJf2SV3NlHHMcSTxLk/view) |
 |24| Wednesday, Apr. 14 | Generative Models 4       | [Slides](https://drive.google.com/file/d/10mrvDuro-lHizJD2wKRx60kOkf9Ht6Ns/view) |
-|25| Monday, Apr. 19    | TBD                       |                                                                                  |
+|25| Monday, Apr. 19    | Study Period              |                                                                                  |
 |26| Wednesday, Apr. 21 | Final Exam                |                                                                                  |
 |27| Monday, Apr. 26    | No Class                  |                                                                                  |
 
